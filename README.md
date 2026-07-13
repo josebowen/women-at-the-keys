@@ -2,9 +2,9 @@
 
 **Women Composers of Solo Piano Music — The Long Nineteenth Century (born 1800–1900)**
 
-A searchable database of **1,436 solo piano works by 335 women composers from 35 countries**, compiled from IMSLP, national library archives, and peer-reviewed scholarship.
+A searchable database of **1,473 solo piano works by 338 women composers from 35 countries**, compiled from IMSLP, national library archives, and peer-reviewed scholarship.
 
-**Live site:** `https://YOUR-USERNAME.github.io/women-at-the-keys/` (after enabling GitHub Pages — see below)
+**Live site:** https://josebowen.github.io/women-at-the-keys/
 
 ## Features
 
@@ -12,6 +12,8 @@ A searchable database of **1,436 solo piano works by 335 women composers from 35
 - **Piece-date search** — e.g., find every nocturne in D minor written 1850–1870. Because publication dates survive for only ~1% of this repertoire (itself a symptom of how women's music was catalogued), the search distinguishes *explicitly dated* works from matches *estimated* from the composer's active years (age 15 to death). Estimates are labeled and can be switched off.
 - Composer birth-year range filter (compare the salon generation to the conservatory generation)
 - Stable score links: permanent IMSLP pages where available, live IMSLP searches elsewhere (immune to link rot)
+- Video links to recordings from the *Piano Music She Wrote* YouTube channel and friends
+- Documented works **without** surviving free scores are included where an authoritative worklist exists (e.g., Ingeborg von Bronsart's early études, fugues, and variations, from Swedish Musical Heritage) — recovering a composer's full output, not just what happens to be scanned
 - Fully self-contained: one HTML file, no server, no dependencies
 
 ## Historic landmarks in the data
@@ -27,7 +29,7 @@ A searchable database of **1,436 solo piano works by 335 women composers from 35
 
 ## Sources
 
-IMSLP; Piano Music She Wrote; A Seat at the Piano; Institute for Composer Diversity; Kassia Database; Présence compositrices; Archiv Frau und Musik; Donne Women in Music; Sophie Drinker Institut; Ukrainian Live Classic; Chilenas al piano; Library of Congress; BnF Gallica; Biblioteca Nacional de Chile; Dees, *A Guide to Piano Music by Women Composers*; Cohen, *International Encyclopedia of Women Composers*; Schleifer & Glickman, *Women Composers: Music Through the Ages*; Walker-Hill, *Black Women Composers: A Century of Piano Music, 1893–1990*.
+IMSLP; Piano Music She Wrote; Swedish Musical Heritage (Levande musikarv); A Seat at the Piano; Institute for Composer Diversity; Kassia Database; Présence compositrices; Archiv Frau und Musik; Donne Women in Music; Sophie Drinker Institut; Ukrainian Live Classic; Chilenas al piano; Library of Congress; BnF Gallica; Biblioteca Nacional de Chile; Dees, *A Guide to Piano Music by Women Composers*; Cohen, *International Encyclopedia of Women Composers*; Schleifer & Glickman, *Women Composers: Music Through the Ages*; Walker-Hill, *Black Women Composers: A Century of Piano Music, 1893–1990*.
 
 Coverage outside Europe and the Americas remains an active research area; corrections and additions are welcome via Issues or Pull Requests.
 
