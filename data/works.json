@@ -1,5 +1,65 @@
 [
  {
+  "composer": "Cowdin, Virginia Georgia",
+  "dates": "1818-1882",
+  "country": "?",
+  "title": "Gen. Beauregard's Grand March",
+  "key": "",
+  "url": "https://imslp.org/wiki/Gen._Beauregard's_Grand_March_(Cowdin%2C_Virginia_Georgia)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Markoff, Alexandra de",
+  "dates": "1879-1959",
+  "country": "?",
+  "title": "Valse des Feuilles",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/974110",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Momy, Valérie",
+  "dates": "1808-1889",
+  "country": "?",
+  "title": "Rondeau avec Introduction sur un air favori de \"Fiorella,\" Op. 4",
+  "key": "",
+  "url": "https://imslp.org/wiki/Rondeau_avec_Introduction_sur_un_air_favori_de_'Fiorella'%2C_Op.4_(Momy%2C_Val%C3%A9rie)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Pferdmenges, Maria",
+  "dates": "1872-1939",
+  "country": "?",
+  "title": "Intermezzo, Op. 19 (Perpetuum Mobile)",
+  "key": "",
+  "url": "https://imslp.org/wiki/Intermezzo%2C_Op.19_(Pferdmenges%2C_Maria)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Poszepczyńska, Emilia",
+  "dates": "?-1909",
+  "country": "?",
+  "title": "Bluette à la Mazourka",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/645465",
+  "youtube": "https://youtu.be/U-R4NtTaREs",
+  "year": null
+ },
+ {
+  "composer": "Sari, Laeticia",
+  "dates": "1822-1893",
+  "country": "?",
+  "title": "Ronde des elfes",
+  "key": "",
+  "url": "https://imslp.org/wiki/Ronde_des_elfes_(Sari%2C_L%C3%A6titia)",
+  "youtube": "",
+  "year": null
+ },
+ {
   "composer": "Albery, Dorothy",
   "dates": "1900-1980",
   "country": "Australia",
@@ -75,7 +135,7 @@
   "country": "Australia",
   "title": "L'aurore joyeuse, Op. 26",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=L%27aurore+joyeuse%2C+Op.+26+Bowden",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/542348",
   "youtube": "https://youtu.be/oxpeRcZUYeM",
   "year": null
  },
@@ -135,7 +195,7 @@
   "country": "Australia",
   "title": "Moonlight",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Moonlight+Brady",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/395356",
   "youtube": "https://youtu.be/nn5w1pWRGJM",
   "year": null
  },
@@ -375,7 +435,7 @@
   "country": "Austria",
   "title": "Andante",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Andante+Blahetka",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/855764",
   "youtube": "",
   "year": null
  },
@@ -385,7 +445,7 @@
   "country": "Austria",
   "title": "Concertstück, Op. 25",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Concertst%C3%BCck%2C+Op.+25+Blahetka",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/698907",
   "youtube": "",
   "year": null
  },
@@ -455,7 +515,7 @@
   "country": "Austria",
   "title": "6 Waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Waltzes+Fr%C3%B6hlich",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/942467",
   "youtube": "",
   "year": null
  },
@@ -475,7 +535,7 @@
   "country": "Austria",
   "title": "Festmarsch",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Festmarsch+Kralik",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/835213",
   "youtube": "",
   "year": null
  },
@@ -495,7 +555,7 @@
   "country": "Austria",
   "title": "Rokoko-Sonate",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Rokoko-Sonate+Kralik",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/835012",
   "youtube": "",
   "year": null
  },
@@ -505,7 +565,7 @@
   "country": "Austria",
   "title": "Romance",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Romance+Kralik",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961623",
   "youtube": "",
   "year": null
  },
@@ -515,7 +575,7 @@
   "country": "Austria",
   "title": "Walzer in D major",
   "key": "D major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Walzer+in+D+major+Kralik",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/958966",
   "youtube": "",
   "year": null
  },
@@ -525,7 +585,7 @@
   "country": "Austria",
   "title": "6 Klavierstücke (Andante-Allegro; Sostenuto; Scherzo; Mæsig Langsam; Grazioso; Vivo)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Klavierst%C3%BCcke+%28Andante-Allegro%3B+Sostenuto%3B+Scherzo%3B+M%C3%A6sig+Langsam%3B+Grazioso%3B+M%C3%BCller-Hermann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/952230",
   "youtube": "",
   "year": null
  },
@@ -535,7 +595,7 @@
   "country": "Austria",
   "title": "5 Klavierstücke, Op. 3 (Romanze in E♭ major, Novellette in A♭ major, Intermezzo in D minor, Intermezzo in D major, Impromptu in D minor)",
   "key": "D minor",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=5+Klavierst%C3%BCcke%2C+Op.+3+%28Romanze+in+E%E2%99%AD+major%2C+M%C3%BCller-Hermann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/557758",
   "youtube": "https://www.youtube.com/watch?v=ec_EDmCq3rM and https://youtu.be/NZAYW7pQo3A",
   "year": null
  },
@@ -545,7 +605,7 @@
   "country": "Austria",
   "title": "Invention and Fugue, Op. 23",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Invention+and+Fugue%2C+Op.+23+M%C3%BCller-Hermann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/942936",
   "youtube": "",
   "year": null
  },
@@ -555,7 +615,7 @@
   "country": "Austria",
   "title": "Albumblatt",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Albumblatt+M%C3%BCller-Sinzig",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/831227",
   "youtube": "https://youtu.be/mfXoE-xjCvo",
   "year": null
  },
@@ -585,7 +645,7 @@
   "country": "Austria",
   "title": "Humoreske",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Humoreske+M%C3%BCller-Sinzig",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/831223",
   "youtube": "",
   "year": null
  },
@@ -595,7 +655,7 @@
   "country": "Austria",
   "title": "Schäferreigen",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sch%C3%A4ferreigen+M%C3%BCller-Sinzig",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/831224",
   "youtube": "",
   "year": null
  },
@@ -605,7 +665,7 @@
   "country": "Austria",
   "title": "Spanische Liebe",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Spanische+Liebe+M%C3%BCller-Sinzig",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/831231",
   "youtube": "",
   "year": null
  },
@@ -615,7 +675,7 @@
   "country": "Austria",
   "title": "Tändelei",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=T%C3%A4ndelei+M%C3%BCller-Sinzig",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/831229",
   "youtube": "",
   "year": null
  },
@@ -635,7 +695,7 @@
   "country": "Austria",
   "title": "Pensée fugitive",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pens%C3%A9e+fugitive+Staudach",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/958602",
   "youtube": "",
   "year": null
  },
@@ -665,7 +725,7 @@
   "country": "Belgium",
   "title": "The Hall of Machinery-Wembley",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Hall+of+Machinery-Wembley+Poldowski",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/952207",
   "youtube": "",
   "year": null
  },
@@ -675,7 +735,7 @@
   "country": "Belgium",
   "title": "Sonatine",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sonatine+Poldowski",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/952208",
   "youtube": "",
   "year": null
  },
@@ -685,7 +745,7 @@
   "country": "Belgium",
   "title": "Study",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Study+Poldowski",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/952209",
   "youtube": "",
   "year": null
  },
@@ -695,7 +755,7 @@
   "country": "Brazil",
   "title": "Alayde",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Alayde+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675525",
   "youtube": "",
   "year": null
  },
@@ -715,7 +775,7 @@
   "country": "Brazil",
   "title": "Bailado indígena",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Bailado+ind%C3%ADgena+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675527",
   "youtube": "",
   "year": null
  },
@@ -725,7 +785,7 @@
   "country": "Brazil",
   "title": "Dedicação",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Dedica%C3%A7%C3%A3o+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675528",
   "youtube": "",
   "year": null
  },
@@ -741,11 +801,11 @@
  },
  {
   "composer": "Bilhar, Branca",
-  "dates": "1886-1928",
+  "dates": "1886 or 1891-1928",
   "country": "Brazil",
   "title": "No sertão",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=No+sert%C3%A3o+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675606",
   "youtube": "",
   "year": null
  },
@@ -755,7 +815,7 @@
   "country": "Brazil",
   "title": "Perpetuum mobile",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Perpetuum+mobile+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675608",
   "youtube": "",
   "year": null
  },
@@ -765,7 +825,7 @@
   "country": "Brazil",
   "title": "Reminiscencia",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Reminiscencia+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675609",
   "youtube": "",
   "year": null
  },
@@ -775,7 +835,7 @@
   "country": "Brazil",
   "title": "Samba sertanejo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Samba+sertanejo+Bilhar",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/675612",
   "youtube": "https://youtu.be/ZAKyjhNK_hM",
   "year": null
  },
@@ -805,7 +865,7 @@
   "country": "Brazil",
   "title": "Dans la calme de lu nuit - barcarolle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Dans+la+calme+de+lu+nuit+-+barcarolle+Boccanera",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/721991",
   "youtube": "",
   "year": null
  },
@@ -815,7 +875,7 @@
   "country": "Brazil",
   "title": "Mélodie",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=M%C3%A9lodie+Boccanera",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/721990",
   "youtube": "",
   "year": null
  },
@@ -845,7 +905,7 @@
   "country": "Brazil",
   "title": "Un rêve du bal - valse brilliante",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Un+r%C3%AAve+du+bal+-+valse+brilliante+Boccanera",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/721988",
   "youtube": "",
   "year": null
  },
@@ -955,7 +1015,7 @@
   "country": "Brazil",
   "title": "Generalissimo Deodoro",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Generalissimo+Deodoro+Galv%C3%A3o",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/684816",
   "youtube": "",
   "year": null
  },
@@ -1055,7 +1115,7 @@
   "country": "Brazil",
   "title": "Candomblé (Dança africana)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Candombl%C3%A9+%28Dan%C3%A7a+africana%29+Gonzaga",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944945",
   "youtube": "",
   "year": null
  },
@@ -1075,7 +1135,7 @@
   "country": "Brazil",
   "title": "Catita",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Catita+Gonzaga",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/703247",
   "youtube": "",
   "year": null
  },
@@ -1125,7 +1185,7 @@
   "country": "Brazil",
   "title": "Gaúcho",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Ga%C3%BAcho+Gonzaga",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/703258",
   "youtube": "",
   "year": null
  },
@@ -1195,7 +1255,7 @@
   "country": "Brazil",
   "title": "Hip!!!",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Hip%21%21%21+Gonzaga",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/677110",
   "youtube": "",
   "year": null
  },
@@ -1335,7 +1395,7 @@
   "country": "Brazil",
   "title": "Sospiro",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sospiro+Gonzaga",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/601192",
   "youtube": "",
   "year": null
  },
@@ -1405,7 +1465,7 @@
   "country": "Brazil",
   "title": "As lágrimas da amizade",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=As+l%C3%A1grimas+da+amizade+Moncorvo",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/646521",
   "youtube": "",
   "year": null
  },
@@ -1425,7 +1485,7 @@
   "country": "Brazil",
   "title": "Amena",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Amena+Nunes",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/641903",
   "youtube": "",
   "year": null
  },
@@ -1445,7 +1505,7 @@
   "country": "Brazil",
   "title": "Desilusão",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Desilus%C3%A3o+Ribas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/676215",
   "youtube": "",
   "year": null
  },
@@ -1455,7 +1515,7 @@
   "country": "Brazil",
   "title": "Fleur d'avril",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Fleur+d%27avril+Ribas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/676212",
   "youtube": "",
   "year": null
  },
@@ -1465,7 +1525,7 @@
   "country": "Brazil",
   "title": "Marina",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Marina+Ribas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/676213",
   "youtube": "",
   "year": null
  },
@@ -1475,7 +1535,7 @@
   "country": "Brazil",
   "title": "Pierrette",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pierrette+Ribas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/676214",
   "youtube": "",
   "year": null
  },
@@ -1495,7 +1555,7 @@
   "country": "Brazil",
   "title": "Bacurau, Op. 10",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Bacurau%2C+Op.+10+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621597",
   "youtube": "",
   "year": null
  },
@@ -1505,7 +1565,7 @@
   "country": "Brazil",
   "title": "Boas festas, Op. 12",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Boas+festas%2C+Op.+12+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621600",
   "youtube": "",
   "year": null
  },
@@ -1515,7 +1575,7 @@
   "country": "Brazil",
   "title": "Coraçao Magoado",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Cora%C3%A7ao+Magoado+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621602",
   "youtube": "",
   "year": null
  },
@@ -1525,7 +1585,7 @@
   "country": "Brazil",
   "title": "Deem asas ao Brasil, Op. 8",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Deem+asas+ao+Brasil%2C+Op.+8+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621603",
   "youtube": "",
   "year": null
  },
@@ -1535,7 +1595,7 @@
   "country": "Brazil",
   "title": "Maguas...ocultas...",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Maguas...ocultas...+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621604",
   "youtube": "",
   "year": null
  },
@@ -1545,7 +1605,7 @@
   "country": "Brazil",
   "title": "Meu coraçao é teu...",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Meu+cora%C3%A7ao+%C3%A9+teu...+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621724",
   "youtube": "",
   "year": null
  },
@@ -1555,7 +1615,7 @@
   "country": "Brazil",
   "title": "Minha queridinha",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Minha+queridinha+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621733",
   "youtube": "",
   "year": null
  },
@@ -1575,7 +1635,7 @@
   "country": "Brazil",
   "title": "Rosário de lágrimas",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Ros%C3%A1rio+de+l%C3%A1grimas+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621734",
   "youtube": "",
   "year": null
  },
@@ -1585,7 +1645,7 @@
   "country": "Brazil",
   "title": "Saude e...dinheiro",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Saude+e...dinheiro+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621735",
   "youtube": "https://www.youtube.com/watch?v=srRZ4NH7DeM",
   "year": null
  },
@@ -1595,7 +1655,7 @@
   "country": "Brazil",
   "title": "Scismando",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Scismando+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621601",
   "youtube": "",
   "year": null
  },
@@ -1605,7 +1665,7 @@
   "country": "Brazil",
   "title": "Secret du cœur",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Secret+du+c%C5%93ur+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621754",
   "youtube": "",
   "year": null
  },
@@ -1615,7 +1675,7 @@
   "country": "Brazil",
   "title": "Sonho das flôres",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sonho+das+fl%C3%B4res+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621756",
   "youtube": "",
   "year": null
  },
@@ -1625,7 +1685,7 @@
   "country": "Brazil",
   "title": "Sonhos são visões",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sonhos+s%C3%A3o+vis%C3%B5es+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621757",
   "youtube": "",
   "year": null
  },
@@ -1635,7 +1695,7 @@
   "country": "Brazil",
   "title": "Triunfo e glória!",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Triunfo+e+gl%C3%B3ria%21+Vi%C3%BAva+Guerreiro+%22Guerreiro%27s+widow%22",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/621758",
   "youtube": "",
   "year": null
  },
@@ -1645,7 +1705,7 @@
   "country": "Canada",
   "title": "Columbian Polka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Columbian+Polka+Mathewson",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/862057",
   "youtube": "",
   "year": null
  },
@@ -1655,9 +1715,19 @@
   "country": "Chile",
   "title": "Au Moulin",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Au+Moulin+Joutard",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/692404",
   "youtube": "",
   "year": null
+ },
+ {
+  "composer": "Mackenna, Carmela",
+  "dates": "1879-1962",
+  "country": "Chile",
+  "title": "Six Preludes (Berlin, 1931) — scores held at the Biblioteca Nacional de Chile",
+  "key": "",
+  "url": "https://www.chilenasalpiano.cl/compositoras-y-obras/siglo-xx/carmela-mackenna",
+  "youtube": "",
+  "year": 1931
  },
  {
   "composer": "Sepúlveda, María Luisa",
@@ -1670,12 +1740,22 @@
   "year": null
  },
  {
+  "composer": "Sepúlveda, María Luisa",
+  "dates": "1883-1958",
+  "country": "Chile",
+  "title": "El amigo del niño (pedagogical pieces for beginning pianists)",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": null
+ },
+ {
   "composer": "Pejačević, Dora",
   "dates": "1885-1923",
   "country": "Croatia",
   "title": "Gondola Song, Op. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Gondola+Song%2C+Op.+4+Peja%C4%8Devi%C4%87",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/846972",
   "youtube": "https://youtu.be/mj7LO1lh7V8",
   "year": null
  },
@@ -1725,7 +1805,7 @@
   "country": "Croatia",
   "title": "Walzer-Capricen, Op. 28",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Walzer-Capricen%2C+Op.+28+Peja%C4%8Devi%C4%87",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/520418",
   "youtube": "https://youtu.be/sW9HRvyPWlU",
   "year": null
  },
@@ -1855,7 +1935,7 @@
   "country": "Czech Republic",
   "title": "Rêvérie musicale, Op. 43",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=R%C3%AAv%C3%A9rie+musicale%2C+Op.+43+Ringelsberg",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/883254",
   "youtube": "",
   "year": null
  },
@@ -1885,7 +1965,7 @@
   "country": "Denmark",
   "title": "Piano Pieces (Vals, Tarantella, Wiener-Vals, Wiener-Vals, Gallopade, Tarentella, Gallopade, Gallopade, Appendix)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piano+Pieces+%28Vals%2C+Tarantella%2C+Wiener-Vals%2C+Wiener-Vals%2C+Gallopade%2C+Tarentella%2C+Hartmann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/430977",
   "youtube": "",
   "year": null
  },
@@ -1895,7 +1975,7 @@
   "country": "Denmark",
   "title": "Ossetine-Polka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Ossetine-Polka+Lumbye",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/683116",
   "youtube": "",
   "year": null
  },
@@ -2005,7 +2085,7 @@
   "country": "England",
   "title": "Nocturne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Nocturne+Allitsen",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/635219/hfin",
   "youtube": "https://youtu.be/Re79YAszLpI",
   "year": null
  },
@@ -2015,7 +2095,7 @@
   "country": "England",
   "title": "The Silver Thames",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Silver+Thames+Boyce",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/693057",
   "youtube": "https://youtu.be/NzT9KcHKf70",
   "year": null
  },
@@ -2035,7 +2115,7 @@
   "country": "England",
   "title": "The Glamis Castle Waltz",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Glamis+Castle+Waltz+Gabriel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/867300",
   "youtube": "",
   "year": null
  },
@@ -2045,7 +2125,7 @@
   "country": "England",
   "title": "Moonbeams",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Moonbeams+Gabriel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/899875",
   "youtube": "",
   "year": null
  },
@@ -2075,7 +2155,7 @@
   "country": "England",
   "title": "Mazurka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazurka+Hodges",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/878224",
   "youtube": "",
   "year": null
  },
@@ -2115,7 +2195,7 @@
   "country": "England",
   "title": "12 Studies (Book I)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=12+Studies+%28Book+I%29+Loder",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/918067",
   "youtube": "",
   "year": null
  },
@@ -2125,7 +2205,7 @@
   "country": "England",
   "title": "Mazurka in A minor",
   "key": "A minor",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazurka+in+A+minor+Loder",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/907747",
   "youtube": "",
   "year": null
  },
@@ -2145,7 +2225,7 @@
   "country": "England",
   "title": "North Country Barn Dance",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=North+Country+Barn+Dance+Lowthian",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/849990",
   "youtube": "",
   "year": null
  },
@@ -2215,7 +2295,7 @@
   "country": "England",
   "title": "Tone Pictures (Insouciance; Hopes & Fears; Twilight; A Winter's Night; Radiance)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tone+Pictures+%28Insouciance%3B+Hopes+%26+Fears%3B+Twilight%3B+A+Marshall",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/854780",
   "youtube": "",
   "year": null
  },
@@ -2235,7 +2315,7 @@
   "country": "England",
   "title": "Waltz in E-flat major",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Waltz+in+E-flat+major+Marshall",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/908319",
   "youtube": "",
   "year": null
  },
@@ -2255,7 +2335,7 @@
   "country": "England",
   "title": "Piano Sonata, Op. 6",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piano+Sonata%2C+Op.+6+Reinagle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/903861",
   "youtube": "",
   "year": null
  },
@@ -2265,7 +2345,7 @@
   "country": "England",
   "title": "Tarentella, Op. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tarentella%2C+Op.+4+Reinagle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/903862",
   "youtube": "",
   "year": null
  },
@@ -2275,7 +2355,7 @@
   "country": "England",
   "title": "Cinderella",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Cinderella+Risher",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/959024",
   "youtube": "",
   "year": null
  },
@@ -2295,7 +2375,7 @@
   "country": "England",
   "title": "Rosemary",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Rosemary+Risher",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/958601",
   "youtube": "",
   "year": null
  },
@@ -2305,7 +2385,7 @@
   "country": "England",
   "title": "Tarantella",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tarantella+Risher",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/957061",
   "youtube": "",
   "year": null
  },
@@ -2345,7 +2425,7 @@
   "country": "England",
   "title": "Chimes at Twilight",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Chimes+at+Twilight+R%C3%B6ckel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/899526",
   "youtube": "",
   "year": null
  },
@@ -2355,7 +2435,7 @@
   "country": "England",
   "title": "Danse russe",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Danse+russe+R%C3%B6ckel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/583744",
   "youtube": "https://youtu.be/3c6JUp04EH8",
   "year": null
  },
@@ -2365,7 +2445,7 @@
   "country": "England",
   "title": "A River Song",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=A+River+Song+R%C3%B6ckel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/899528",
   "youtube": "",
   "year": null
  },
@@ -2395,7 +2475,7 @@
   "country": "England",
   "title": "Vale of Tempe - Rondo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Vale+of+Tempe+-+Rondo+Smith",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/908228",
   "youtube": "",
   "year": null
  },
@@ -2415,7 +2495,7 @@
   "country": "England",
   "title": "Capricietta",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Capricietta+Varley",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/583669",
   "youtube": "",
   "year": null
  },
@@ -2425,7 +2505,7 @@
   "country": "England",
   "title": "Heart's Desire - Reverie",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Heart%27s+Desire+-+Reverie+Varley",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/584296",
   "youtube": "",
   "year": null
  },
@@ -2435,7 +2515,7 @@
   "country": "England",
   "title": "Love's Enchantment",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Love%27s+Enchantment+Varley",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/584794",
   "youtube": "",
   "year": null
  },
@@ -2465,7 +2545,7 @@
   "country": "England",
   "title": "4 Morceaux, Op. 47 (Scherzo, Menuet, Romanze, Gavotte Royale)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=4+Morceaux%2C+Op.+47+%28Scherzo%2C+Menuet%2C+Romanze%2C+Gavotte+Wurm",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/449943",
   "youtube": "",
   "year": null
  },
@@ -2475,7 +2555,7 @@
   "country": "England",
   "title": "Etude for the Left Hand, Op. 42, no. 1",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etude+for+the+Left+Hand%2C+Op.+42%2C+no.+Wurm",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/450923",
   "youtube": "",
   "year": null
  },
@@ -2485,7 +2565,7 @@
   "country": "England",
   "title": "Maien-Walzer, No. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Maien-Walzer%2C+No.+4+Wurm",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/449732",
   "youtube": "",
   "year": null
  },
@@ -2505,7 +2585,7 @@
   "country": "Finland",
   "title": "Elegie",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Elegie+Sohlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/336999",
   "youtube": "",
   "year": null
  },
@@ -2775,7 +2855,7 @@
   "country": "France",
   "title": "3 Pieces - Viviane, Op. 80, no. 2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Pieces+-+Viviane%2C+Op.+80%2C+no.+2+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944521",
   "youtube": "",
   "year": null
  },
@@ -2785,7 +2865,7 @@
   "country": "France",
   "title": "4 Pieces - Desdémona, Op. 101, no. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=4+Pieces+-+Desd%C3%A9mona%2C+Op.+101%2C+no.+4+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944525",
   "youtube": "",
   "year": null
  },
@@ -2805,7 +2885,7 @@
   "country": "France",
   "title": "Album pour les tout-petites, Op. 103",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Album+pour+les+tout-petites%2C+Op.+103+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/822735",
   "youtube": "https://youtu.be/7SAGJGGp0Ek and https://youtu.be/6iN3u7-T4ZE",
   "year": null
  },
@@ -2825,7 +2905,7 @@
   "country": "France",
   "title": "La Babillarde",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+Babillarde+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/898172",
   "youtube": "",
   "year": null
  },
@@ -2835,7 +2915,7 @@
   "country": "France",
   "title": "Ballade, Op. 27",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Ballade%2C+Op.+27+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944753",
   "youtube": "",
   "year": null
  },
@@ -2865,7 +2945,7 @@
   "country": "France",
   "title": "Berceuse, Op. 23",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Berceuse%2C+Op.+23+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944752",
   "youtube": "",
   "year": null
  },
@@ -2905,7 +2985,7 @@
   "country": "France",
   "title": "Clair de Lune by Gabriel Fauré, transcription",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Clair+de+Lune+by+Gabriel+Faur%C3%A9%2C+transcription+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/35703",
   "youtube": "https://youtu.be/SYSAqRpfa9k",
   "year": null
  },
@@ -2915,7 +2995,7 @@
   "country": "France",
   "title": "L'escarpolette, Op. 52",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=L%27escarpolette%2C+Op.+52+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944755",
   "youtube": "",
   "year": null
  },
@@ -2925,7 +3005,7 @@
   "country": "France",
   "title": "Etoiles, Op. 2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etoiles%2C+Op.+2+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944850",
   "youtube": "",
   "year": null
  },
@@ -2985,7 +3065,7 @@
   "country": "France",
   "title": "Miocheries, Op. 126 (Première solitude, Air connu, Ronde, Le moulin, \"Fifille\" sage, La leçon de solfège, A pas de loups, Patineurs à roulettes, Croquemaitaine, ...Plutôt une vielle danse française, Joyeux scouts, Pique-nique, La toute petite s'endort, Les noces de Polichinelle)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Miocheries%2C+Op.+126+%28Premi%C3%A8re+solitude%2C+Air+connu%2C+Ronde%2C+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/945282",
   "youtube": "",
   "year": null
  },
@@ -2995,7 +3075,7 @@
   "country": "France",
   "title": "Le moustique, Op. 66",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Le+moustique%2C+Op.+66+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/944756",
   "youtube": "",
   "year": null
  },
@@ -3035,7 +3115,7 @@
   "country": "France",
   "title": "Pièces pour piano, no. 1 - Ce qu'on entend dans l'enfer",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pi%C3%A8ces+pour+piano%2C+no.+1+-+Ce+qu%27on+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/897869",
   "youtube": "",
   "year": null
  },
@@ -3045,7 +3125,7 @@
   "country": "France",
   "title": "Pièces pour piano, no. 2 - Ce qu'on entend dans le purgatoire",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pi%C3%A8ces+pour+piano%2C+no.+2+-+Ce+qu%27on+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/897870",
   "youtube": "",
   "year": null
  },
@@ -3055,7 +3135,7 @@
   "country": "France",
   "title": "Pièces pour piano, no. 3 - Ce qu'on entend dans le paradis",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pi%C3%A8ces+pour+piano%2C+no.+3+-+Ce+qu%27on+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/897871",
   "youtube": "",
   "year": null
  },
@@ -3075,7 +3155,7 @@
   "country": "France",
   "title": "Prélude, Op. 10",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pr%C3%A9lude%2C+Op.+10+Bonis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/847722",
   "youtube": "",
   "year": null
  },
@@ -3185,7 +3265,7 @@
   "country": "France",
   "title": "3 Morceaux (d'un Vieux Jardin, D’un Jardin Clair, Cortège)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Morceaux+%28d%27un+Vieux+Jardin%2C+D%E2%80%99un+Jardin+Clair%2C+Boulanger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/13142",
   "youtube": "https://youtu.be/EOIOXpiQ_7w and https://youtu.be/B3D9dO4m63Q",
   "year": null
  },
@@ -3195,7 +3275,7 @@
   "country": "France",
   "title": "Prelude in B major (Prelude for orchestra)",
   "key": "B major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Prelude+in+B+major+%28Prelude+for+orchestra%29+Boulanger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/862664",
   "youtube": "",
   "year": null
  },
@@ -3225,7 +3305,7 @@
   "country": "France",
   "title": "Vers la vie nouvelle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Vers+la+vie+nouvelle+Boulanger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/916159",
   "youtube": "",
   "year": null
  },
@@ -3245,7 +3325,7 @@
   "country": "France",
   "title": "Élégie, Op. 21",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=%C3%89l%C3%A9gie%2C+Op.+21+B%C3%A9guin-Salomon",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/741566",
   "youtube": "",
   "year": null
  },
@@ -3545,7 +3625,7 @@
   "country": "France",
   "title": "Agitato, Op. 108",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Agitato%2C+Op.+108+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/878833",
   "youtube": "",
   "year": null
  },
@@ -3555,7 +3635,7 @@
   "country": "France",
   "title": "Air à Danser, Op. 164",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Air+%C3%A0+Danser%2C+Op.+164+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/861926",
   "youtube": "",
   "year": null
  },
@@ -3635,7 +3715,7 @@
   "country": "France",
   "title": "Au pays dévasté, Op. 155",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Au+pays+d%C3%A9vast%C3%A9%2C+Op.+155+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/07318",
   "youtube": "https://youtu.be/zl1EmPDSP-o",
   "year": null
  },
@@ -3705,7 +3785,7 @@
   "country": "France",
   "title": "Capricietto, Op. 136",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Capricietto%2C+Op.+136+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/947856",
   "youtube": "",
   "year": null
  },
@@ -3845,7 +3925,7 @@
   "country": "France",
   "title": "Expansion, Op. 106",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Expansion%2C+Op.+106+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/878836",
   "youtube": "",
   "year": null
  },
@@ -3855,7 +3935,7 @@
   "country": "France",
   "title": "Etude, Op. 66",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etude%2C+Op.+66+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/924593",
   "youtube": "",
   "year": null
  },
@@ -4375,7 +4455,7 @@
   "country": "France",
   "title": "Romanesca, Op. 163",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Romanesca%2C+Op.+163+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/947857",
   "youtube": "",
   "year": null
  },
@@ -4505,7 +4585,7 @@
   "country": "France",
   "title": "Terpsichore, Air de ballet, Op. 81",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Terpsichore%2C+Air+de+ballet%2C+Op.+81+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/878834",
   "youtube": "",
   "year": null
  },
@@ -4515,7 +4595,7 @@
   "country": "France",
   "title": "Thème variée, Op. 89",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Th%C3%A8me+vari%C3%A9e%2C+Op.+89+Chaminade",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/92304",
   "youtube": "https://youtu.be/4kqNSFYok9U",
   "year": null
  },
@@ -4650,6 +4730,106 @@
   "year": null
  },
  {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Danses et chansons",
+  "key": "",
+  "url": "https://imslp.org/wiki/Danses_et_chansons_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Doña Sol",
+  "key": "",
+  "url": "https://imslp.org/wiki/Doña_Sol_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Déïdamia",
+  "key": "",
+  "url": "https://imslp.org/wiki/Déïdamia_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Grelots et clochettes",
+  "key": "",
+  "url": "https://imslp.org/wiki/Grelots_et_clochettes_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Jeunesse et folie",
+  "key": "",
+  "url": "https://imslp.org/wiki/Jeunesse_et_folie_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "La petite Jeanne",
+  "key": "",
+  "url": "https://imslp.org/wiki/La_petite_Jeanne_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Le Capitaine Nemo",
+  "key": "",
+  "url": "https://imslp.org/wiki/Le_Capitaine_Nemo_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Le retour des régates",
+  "key": "",
+  "url": "https://imslp.org/wiki/Le_retour_des_régates_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Les diablotins",
+  "key": "",
+  "url": "https://imslp.org/wiki/Les_diablotins_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Chapelle, Ida",
+  "dates": "?-1901",
+  "country": "France",
+  "title": "Sous les châtaigniers",
+  "key": "",
+  "url": "https://imslp.org/wiki/Sous_les_châtaigniers_(Chapelle%2C_Ida)",
+  "youtube": "",
+  "year": null
+ },
+ {
   "composer": "Charlet, Marie-Thérèse",
   "dates": "1815-?",
   "country": "France",
@@ -4735,7 +4915,7 @@
   "country": "France",
   "title": "Berceuse",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Berceuse+Chr%C3%A9tien",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/495056",
   "youtube": "https://youtu.be/dSZpGOjUKbI",
   "year": null
  },
@@ -5060,6 +5240,16 @@
   "year": null
  },
  {
+  "composer": "Contenet de Sapincourt, Louise",
+  "dates": "?-1919",
+  "country": "France",
+  "title": "La Grande Vie de Paris",
+  "key": "",
+  "url": "https://imslp.org/wiki/3_Pièces_(Contenet_de_Sapincourt%2C_Louise)",
+  "youtube": "",
+  "year": null
+ },
+ {
   "composer": "Courtaux, Amanda",
   "dates": "1859-1941",
   "country": "France",
@@ -5076,6 +5266,116 @@
   "title": "La belle castillane, Op. 18",
   "key": "",
   "url": "https://imslp.org/wiki/La_belle_castillane%2C_Op.18_(Dancla%2C_Laure)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Des œillets et des roses",
+  "key": "",
+  "url": "https://imslp.org/wiki/Des_œillets_et_des_roses_(Danglas%2C_Jeanne)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Flirt - Waltz",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868801",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Gavotte",
+  "key": "",
+  "url": "https://imslp.org/wiki/Gavotte_(Danglas%2C_Jeanne)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Je sais que t'aimer c'est folie - valse lente",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868893",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Les papillons",
+  "key": "",
+  "url": "https://imslp.org/wiki/Les_papillons_(Danglas%2C_Jeanne)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Menuet",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/513739",
+  "youtube": "https://youtu.be/RnEzh2zhzr0",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "O, my baby! - Fantaisie Anglaise",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868800",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Patrouille royale",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868798",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Suite norvégienne (March, Aubade, Sérénade, Danse)",
+  "key": "",
+  "url": "https://imslp.org/wiki/Suite_norvégienne_(Danglas%2C_Jeanne)",
+  "youtube": "https://youtu.be/jDwpLEYvh74",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "Vous saurez mon secret",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868799",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Danglas, Jeanne (pseud. of Rosalie Crabos)",
+  "dates": "?-1915?",
+  "country": "France",
+  "title": "À la gloire! - Marche militaire",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868805",
   "youtube": "",
   "year": null
  },
@@ -5103,16 +5403,6 @@
   "composer": "Darolle, Emmeline",
   "dates": "1838-1915",
   "country": "France",
-  "title": "Les folles brises - Nocturne caprice",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Les+folles+brises+-+Nocturne+caprice+Darolle",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Darolle, Emmeline",
-  "dates": "1838-1915",
-  "country": "France",
   "title": "2 Mazurkas (My love, Memory)",
   "key": "",
   "url": "https://imslp.org/wiki/2_Mazurkas_de_salon_(Darolle,_Emmeline)#IMSLP740513",
@@ -5125,7 +5415,7 @@
   "country": "France",
   "title": "Heure de calme - Nocturne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Heure+de+calme+-+Nocturne+Darolle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/739893",
   "youtube": "",
   "year": null
  },
@@ -5135,7 +5425,17 @@
   "country": "France",
   "title": "L'esclave",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=L%27esclave+Darolle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740524",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Darolle, Emmeline",
+  "dates": "1838-1915",
+  "country": "France",
+  "title": "Les folles brises - Nocturne caprice",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740516",
   "youtube": "",
   "year": null
  },
@@ -5145,7 +5445,7 @@
   "country": "France",
   "title": "Libellule - Caprice",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Libellule+-+Caprice+Darolle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740521",
   "youtube": "",
   "year": null
  },
@@ -5155,7 +5455,7 @@
   "country": "France",
   "title": "Marivaudage - Caprice",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Marivaudage+-+Caprice+Darolle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740522",
   "youtube": "",
   "year": null
  },
@@ -5165,17 +5465,7 @@
   "country": "France",
   "title": "Rêve d'enfant - Berceuse",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=R%C3%AAve+d%27enfant+-+Berceuse+Darolle",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Darolle, Emmeline",
-  "dates": "1838-1915",
-  "country": "France",
-  "title": "Séparation - Romance sans paroles",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=S%C3%A9paration+-+Romance+sans+paroles+Darolle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740519",
   "youtube": "",
   "year": null
  },
@@ -5185,7 +5475,17 @@
   "country": "France",
   "title": "Sur la grève - Rêverie",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sur+la+gr%C3%A8ve+-+R%C3%AAverie+Darolle",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740523",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Darolle, Emmeline",
+  "dates": "1838-1915",
+  "country": "France",
+  "title": "Séparation - Romance sans paroles",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/740520",
   "youtube": "",
   "year": null
  },
@@ -5195,7 +5495,7 @@
   "country": "France",
   "title": "Preludes for Piano",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Preludes+for+Piano+De+Polignac",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/818447",
   "youtube": "",
   "year": null
  },
@@ -5205,7 +5505,7 @@
   "country": "France",
   "title": "2 Fugues",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Fugues+Depecker",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/899886",
   "youtube": "",
   "year": null
  },
@@ -5215,7 +5515,7 @@
   "country": "France",
   "title": "10 Contes fantastiques de Hoffman - only numbers 6-10)  (Les maîtres chanteurs, La porte murée, Berthold le fou, Le reflet perdu, Le tonellier du Nuremberg)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=10+Contes+fantastiques+de+Hoffman+-+only+numbers+Dillon",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/842711",
   "youtube": "",
   "year": null
  },
@@ -5245,7 +5545,7 @@
   "country": "France",
   "title": "4 Pieces (Prières et cloches nocturne; Le torrent; Le tocsin; Paraphrase et fantaisie comique)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=4+Pieces+%28Pri%C3%A8res+et+cloches+nocturne%3B+Le+torrent%3B+Ducourau-Petit",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/955370",
   "youtube": "",
   "year": null
  },
@@ -5295,7 +5595,7 @@
   "country": "France",
   "title": "Adieux à la Suisse",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Adieux+%C3%A0+la+Suisse+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/927537",
   "youtube": "",
   "year": null
  },
@@ -5305,7 +5605,7 @@
   "country": "France",
   "title": "Air russe varié, Op. 17",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Air+russe+vari%C3%A9%2C+Op.+17+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961771",
   "youtube": "",
   "year": null
  },
@@ -5315,17 +5615,7 @@
   "country": "France",
   "title": "Air suisse varié, Op. 7",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Air+suisse+vari%C3%A9%2C+Op.+7+Farrenc",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Farrenc, Louise",
-  "dates": "1804-1875",
-  "country": "France",
-  "title": "Les Allemandes, Op. 16",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Les+Allemandes%2C+Op.+16+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961767",
   "youtube": "",
   "year": null
  },
@@ -5345,7 +5635,7 @@
   "country": "France",
   "title": "Grandes variations sur l'air Le premier pas - for piano and orchestra (piano part only)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Grandes+variations+sur+l%27air+Le+premier+pas+-+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961786",
   "youtube": "",
   "year": null
  },
@@ -5355,17 +5645,7 @@
   "country": "France",
   "title": "Grandes variations sur un thème du comte Gallenberg, Op. 25 - for piano and orchestra (piano part only)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Grandes+variations+sur+un+th%C3%A8me+du+comte+Gallenberg%2C+Farrenc",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Farrenc, Louise",
-  "dates": "1804-1875",
-  "country": "France",
-  "title": "La Grand'mère, Rondoletto",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+Grand%27m%C3%A8re%2C+Rondoletto+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961832",
   "youtube": "",
   "year": null
  },
@@ -5375,7 +5655,7 @@
   "country": "France",
   "title": "Hymne russe varié, Op. 27",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Hymne+russe+vari%C3%A9%2C+Op.+27+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961831",
   "youtube": "",
   "year": null
  },
@@ -5385,7 +5665,7 @@
   "country": "France",
   "title": "Impromptu pour piano",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Impromptu+pour+piano+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/636725",
   "youtube": "https://www.youtube.com/watch?v=zSMb8jPLpJI",
   "year": null
  },
@@ -5393,29 +5673,9 @@
   "composer": "Farrenc, Louise",
   "dates": "1804-1875",
   "country": "France",
-  "title": "Les jours heureux, Op. 21",
+  "title": "La Grand'mère, Rondoletto",
   "key": "",
-  "url": "https://imslp.org/wiki/Les_Jours_heureux,_Op.21_(Farrenc,_Louise)#IMSLP961905",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Farrenc, Louise",
-  "dates": "1804-1875",
-  "country": "France",
-  "title": "Rondeau brillant sur des thèmes d'Eurianthe de Weber, Op. 11",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Rondeau+brillant+sur+des+th%C3%A8mes+d%27Eurianthe+de+Weber%2C+Farrenc",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Farrenc, Louise",
-  "dates": "1804-1875",
-  "country": "France",
-  "title": "Rondau brillant sur la cavatine de Zelmire de Rossini, Op. 13",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Rondau+brillant+sur+la+cavatine+de+Zelmire+de+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961783",
   "youtube": "",
   "year": null
  },
@@ -5425,7 +5685,17 @@
   "country": "France",
   "title": "La Sylphide, Op. 18",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+Sylphide%2C+Op.+18+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/833197",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Farrenc, Louise",
+  "dates": "1804-1875",
+  "country": "France",
+  "title": "Les Allemandes, Op. 16",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961834",
   "youtube": "",
   "year": null
  },
@@ -5436,6 +5706,16 @@
   "title": "Les Italiennes, Op. 14 (3 Cavatinas)",
   "key": "",
   "url": "https://imslp.org/wiki/Les_Italiennes%2C_Op.14_(Farrenc%2C_Louise)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Farrenc, Louise",
+  "dates": "1804-1875",
+  "country": "France",
+  "title": "Les jours heureux, Op. 21",
+  "key": "",
+  "url": "https://imslp.org/wiki/Les_Jours_heureux,_Op.21_(Farrenc,_Louise)#IMSLP961905",
   "youtube": "",
   "year": null
  },
@@ -5455,7 +5735,17 @@
   "country": "France",
   "title": "Mélodie pour piano, Op. 43",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=M%C3%A9lodie+pour+piano%2C+Op.+43+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/962104",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Farrenc, Louise",
+  "dates": "1804-1875",
+  "country": "France",
+  "title": "Naples - Rondoletto",
+  "key": "",
+  "url": "",
   "youtube": "",
   "year": null
  },
@@ -5473,9 +5763,29 @@
   "composer": "Farrenc, Louise",
   "dates": "1804-1875",
   "country": "France",
+  "title": "Rondau brillant sur la cavatine de Zelmire de Rossini, Op. 13",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/962076",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Farrenc, Louise",
+  "dates": "1804-1875",
+  "country": "France",
+  "title": "Rondeau brillant sur des thèmes d'Eurianthe de Weber, Op. 11",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/962080",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Farrenc, Louise",
+  "dates": "1804-1875",
+  "country": "France",
   "title": "Rondo brilliant sur un choeur du Pirate, Op. 9",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Rondo+brilliant+sur+un+choeur+du+Pirate%2C+Op.+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/720772",
   "youtube": "",
   "year": null
  },
@@ -5485,7 +5795,7 @@
   "country": "France",
   "title": "Scherzo, Op. 47",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Scherzo%2C+Op.+47+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/742479",
   "youtube": "",
   "year": null
  },
@@ -5505,7 +5815,7 @@
   "country": "France",
   "title": "Theme and Variations in F major",
   "key": "F major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Theme+and+Variations+in+F+major+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961830",
   "youtube": "",
   "year": null
  },
@@ -5515,7 +5825,7 @@
   "country": "France",
   "title": "Theme and Variations in G major",
   "key": "G major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Theme+and+Variations+in+G+major+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961829",
   "youtube": "",
   "year": null
  },
@@ -5535,7 +5845,17 @@
   "country": "France",
   "title": "Valse brilliant, Op. 51, no. 2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Valse+brilliant%2C+Op.+51%2C+no.+2+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/866013",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Farrenc, Louise",
+  "dates": "1804-1875",
+  "country": "France",
+  "title": "Variations brillantes sur la cavatine d'Anna Bolena de Donizetti \"Nel veder la tua constanza,\" Op. 15",
+  "key": "",
+  "url": "",
   "youtube": "",
   "year": null
  },
@@ -5545,7 +5865,7 @@
   "country": "France",
   "title": "Variations brillantes sur un thème d'Artistide Farrenc, Op. 2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Variations+brillantes+sur+un+th%C3%A8me+d%27Artistide+Farrenc%2C+Op.+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961787",
   "youtube": "",
   "year": null
  },
@@ -5555,7 +5875,7 @@
   "country": "France",
   "title": "Variations brillantes sur un thème de la Cenerentola de Rossini, Op. 5",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Variations+brillantes+sur+un+th%C3%A8me+de+la+Cenerentola+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961788",
   "youtube": "",
   "year": null
  },
@@ -5565,7 +5885,7 @@
   "country": "France",
   "title": "Variations sur une galopade favorite, Op. 12",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Variations+sur+une+galopade+favorite%2C+Op.+12+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/961825",
   "youtube": "",
   "year": null
  },
@@ -5575,7 +5895,7 @@
   "country": "France",
   "title": "Venez dans la prairie - Rondoletto",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Venez+dans+la+prairie+-+Rondoletto+Farrenc",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/962084",
   "youtube": "",
   "year": null
  },
@@ -5607,16 +5927,6 @@
   "key": "",
   "url": "https://imslp.org/wiki/Les_danses_de_nos_pères_(Fonta%2C_Laure)",
   "youtube": "",
-  "year": null
- },
- {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
-  "dates": "1844 (or 1850?) -1921",
-  "country": "France",
-  "title": "Allegretto, Op. 41",
-  "key": "",
-  "url": "https://imslp.org/wiki/Allegretto%2C_Op.41_(Foscarina%2C_Mario)",
-  "youtube": "https://youtu.be/EB2gijvYiRk",
   "year": null
  },
  {
@@ -5705,7 +6015,7 @@
   "country": "France",
   "title": "La baie des anges",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+baie+des+anges+Galos",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/249526",
   "youtube": "https://youtu.be/oxCRHH1znTg",
   "year": null
  },
@@ -6005,7 +6315,7 @@
   "country": "France",
   "title": "Caprice Ballet",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Caprice+Ballet+Isambert",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868391",
   "youtube": "",
   "year": null
  },
@@ -6085,7 +6395,7 @@
   "country": "France",
   "title": "Piano Sonata",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piano+Sonata+Ja%C3%ABll",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/842618",
   "youtube": "",
   "year": null
  },
@@ -6095,7 +6405,7 @@
   "country": "France",
   "title": "2 Pieces, Op. 29-30 (Sérénade duo; Humoresque)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Pieces%2C+Op.+29-30+%28S%C3%A9r%C3%A9nade+duo%3B+Humoresque%29+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949041",
   "youtube": "",
   "year": null
  },
@@ -6105,7 +6415,7 @@
   "country": "France",
   "title": "3 Valses (Varsovie; Prague; Belgrade)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Valses+%28Varsovie%3B+Prague%3B+Belgrade%29+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949039",
   "youtube": "",
   "year": null
  },
@@ -6125,7 +6435,7 @@
   "country": "France",
   "title": "Aria, Op. 16",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Aria%2C+Op.+16+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949002",
   "youtube": "",
   "year": null
  },
@@ -6135,7 +6445,7 @@
   "country": "France",
   "title": "Berceuse, Op. 41",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Berceuse%2C+Op.+41+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/950307",
   "youtube": "",
   "year": null
  },
@@ -6145,7 +6455,7 @@
   "country": "France",
   "title": "Chasse fantastique, Op. 45",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Chasse+fantastique%2C+Op.+45+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/903310",
   "youtube": "",
   "year": null
  },
@@ -6155,7 +6465,7 @@
   "country": "France",
   "title": "Chevauchée nocturne, Op. 53",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Chevauch%C3%A9e+nocturne%2C+Op.+53+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/950314",
   "youtube": "",
   "year": null
  },
@@ -6165,7 +6475,7 @@
   "country": "France",
   "title": "Doumka, Op. 12",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Doumka%2C+Op.+12+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/948910",
   "youtube": "",
   "year": null
  },
@@ -6175,7 +6485,7 @@
   "country": "France",
   "title": "Hungaria, Op. 23",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Hungaria%2C+Op.+23+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949038",
   "youtube": "",
   "year": null
  },
@@ -6185,7 +6495,7 @@
   "country": "France",
   "title": "Intermezzo, Op. 56",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Intermezzo%2C+Op.+56+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/950312",
   "youtube": "",
   "year": null
  },
@@ -6195,7 +6505,7 @@
   "country": "France",
   "title": "Krakowiak, Op. 21",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Krakowiak%2C+Op.+21+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/502050",
   "youtube": "https://youtu.be/LHoaPAcDi3Y",
   "year": null
  },
@@ -6215,7 +6525,7 @@
   "country": "France",
   "title": "Mazour no. 2, Op. 20",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazour+no.+2%2C+Op.+20+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949033",
   "youtube": "",
   "year": null
  },
@@ -6225,7 +6535,7 @@
   "country": "France",
   "title": "Menuet, Op. 22",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Menuet%2C+Op.+22+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949034",
   "youtube": "",
   "year": null
  },
@@ -6235,7 +6545,7 @@
   "country": "France",
   "title": "Pièce lyrique, Op. 50",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pi%C3%A8ce+lyrique%2C+Op.+50+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/948893",
   "youtube": "",
   "year": null
  },
@@ -6245,7 +6555,7 @@
   "country": "France",
   "title": "Rêverie",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=R%C3%AAverie+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949005",
   "youtube": "",
   "year": null
  },
@@ -6265,7 +6575,7 @@
   "country": "France",
   "title": "Sérénade, Op. 13",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=S%C3%A9r%C3%A9nade%2C+Op.+13+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/948909",
   "youtube": "",
   "year": null
  },
@@ -6275,7 +6585,7 @@
   "country": "France",
   "title": "Sonata in D minor - Minuetto movement only",
   "key": "D minor",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sonata+in+D+minor+-+Minuetto+movement+only+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949000",
   "youtube": "",
   "year": null
  },
@@ -6285,7 +6595,7 @@
   "country": "France",
   "title": "Tarantelle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tarantelle+Krzyzanowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/948908",
   "youtube": "",
   "year": null
  },
@@ -6325,7 +6635,7 @@
   "country": "France",
   "title": "Mazurka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazurka+Malhomme",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/700280",
   "youtube": "",
   "year": null
  },
@@ -6361,7 +6671,7 @@
  },
  {
   "composer": "Mennechet de Barival, Henriette-Caroline",
-  "dates": "1813 or 1815?-1861",
+  "dates": "1813 or 1815? -1861",
   "country": "France",
   "title": "Deux Nocturnes, Op. 26 (Solitude, Speranza)",
   "key": "",
@@ -6465,7 +6775,7 @@
   "country": "France",
   "title": "La plainte",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+plainte+Nicol%C3%B2-Isouard",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/741291",
   "youtube": "",
   "year": null
  },
@@ -6485,7 +6795,7 @@
   "country": "France",
   "title": "J'écoute - romance sans paroles",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=J%27%C3%A9coute+-+romance+sans+paroles+Paulian",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/744964",
   "youtube": "",
   "year": null
  },
@@ -6495,7 +6805,7 @@
   "country": "France",
   "title": "Les ivresses",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Les+ivresses+Pillevesse",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/649234",
   "youtube": "",
   "year": null
  },
@@ -6505,7 +6815,7 @@
   "country": "France",
   "title": "Première Minuet",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Premi%C3%A8re+Minuet+Pillevesse",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/899286",
   "youtube": "",
   "year": null
  },
@@ -6545,7 +6855,7 @@
   "country": "France",
   "title": "2 Rondolettes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Rondolettes+Puget",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/899313",
   "youtube": "",
   "year": null
  },
@@ -6556,6 +6866,26 @@
   "title": "Mazurka No. 1, Opus 80",
   "key": "",
   "url": "https://imslp.org/wiki/Mazurka_No.1%2C_Op.80_(Satie-Barnetche%2C_Eug%C3%A9nie)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Satie-Barnetche, Eugénie",
+  "dates": "1832-1916",
+  "country": "France",
+  "title": "Ronde de nuit (Marche)",
+  "key": "",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/735549",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Satie-Barnetche, Eugénie",
+  "dates": "1832-1916",
+  "country": "France",
+  "title": "Sois bénie! Op. 64",
+  "key": "",
+  "url": "https://imslp.org/wiki/Sois_b%C3%A9nie!%2C_Op.64_(Satie-Barnetche%2C_Eug%C3%A9nie)",
   "youtube": "",
   "year": null
  },
@@ -6575,7 +6905,7 @@
   "country": "France",
   "title": "En automne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=En+automne+Sauvrezis",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/939881",
   "youtube": "",
   "year": null
  },
@@ -6661,7 +6991,7 @@
  },
  {
   "composer": "Tailleferre, Germaine",
-  "dates": "1892-1963",
+  "dates": "1892-1983",
   "country": "France",
   "title": "Romance",
   "key": "",
@@ -6671,11 +7001,11 @@
  },
  {
   "composer": "Tailleferre, Germaine",
-  "dates": "1892-1963",
+  "dates": "1892-1983",
   "country": "France",
   "title": "Sicilienne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sicilienne+Tailleferre",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/948736",
   "youtube": "",
   "year": null
  },
@@ -6865,7 +7195,7 @@
   "country": "France",
   "title": "Mazourke",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazourke+Viardot",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/580178",
   "youtube": "https://youtu.be/wtlIV90hpg8",
   "year": null
  },
@@ -6875,7 +7205,7 @@
   "country": "France",
   "title": "Tarantelle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tarantelle+Vieu",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/601724",
   "youtube": "",
   "year": null
  },
@@ -6885,7 +7215,7 @@
   "country": "France",
   "title": "6 Etudes de Salon, Op. 10",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Etudes+de+Salon%2C+Op.+10+Wartel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/128439",
   "youtube": "",
   "year": null
  },
@@ -6895,7 +7225,7 @@
   "country": "France",
   "title": "Andante, Op. 11",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Andante%2C+Op.+11+Wartel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/914644",
   "youtube": "",
   "year": null
  },
@@ -6915,7 +7245,7 @@
   "country": "Germany",
   "title": "Prelude and Fugue",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Prelude+and+Fugue+Beyer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/849350",
   "youtube": "",
   "year": null
  },
@@ -6925,7 +7255,7 @@
   "country": "Germany",
   "title": "Piano Sonatina in C major",
   "key": "C major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piano+Sonatina+in+C+major+Beyer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/851260",
   "youtube": "",
   "year": null
  },
@@ -6935,7 +7265,7 @@
   "country": "Germany",
   "title": "Suite for Piano",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Suite+for+Piano+Beyer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/849019",
   "youtube": "",
   "year": null
  },
@@ -6985,7 +7315,7 @@
   "country": "Germany",
   "title": "Wie soll ich dich empfangen",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Wie+soll+ich+dich+empfangen+Faisst",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/934016",
   "youtube": "",
   "year": null
  },
@@ -7055,7 +7385,7 @@
   "country": "Germany",
   "title": "Frantziska, Op. 29",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Frantziska%2C+Op.+29+Haenel+de+Cronenthall",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/203489",
   "youtube": "",
   "year": null
  },
@@ -7215,7 +7545,7 @@
   "country": "Germany",
   "title": "Präludium",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pr%C3%A4ludium+Hensel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/815310",
   "youtube": "",
   "year": null
  },
@@ -7395,7 +7725,7 @@
   "country": "Germany",
   "title": "Gavotte, Op. 32",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Gavotte%2C+Op.+32+Le+Beau",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/897060",
   "youtube": "",
   "year": null
  },
@@ -7405,7 +7735,7 @@
   "country": "Germany",
   "title": "Improvisata, Op. 30 (for left hand alone)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Improvisata%2C+Op.+30+%28for+left+hand+alone%29+Le+Beau",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/897059",
   "youtube": "",
   "year": null
  },
@@ -7515,7 +7845,7 @@
   "country": "Germany",
   "title": "Marcia in A Major",
   "key": "A Major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Marcia+in+A+Major+Mayer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/749027",
   "youtube": "",
   "year": null
  },
@@ -7565,7 +7895,7 @@
   "country": "Germany",
   "title": "Tonwellen, Op. 30",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tonwellen%2C+Op.+30+Mayer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/562107",
   "youtube": "https://youtu.be/Zjst8WpQBFc",
   "year": null
  },
@@ -7645,7 +7975,7 @@
   "country": "Germany",
   "title": "Romance, Op. 5",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Romance%2C+Op.+5+Menter",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/31029",
   "youtube": "https://youtu.be/5jfMxg6Dq9s",
   "year": null
  },
@@ -7765,7 +8095,7 @@
   "country": "Germany",
   "title": "Mes souvenirs d'Ecosse No. 3",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mes+souvenirs+d%27Ecosse+No.+3+Oury",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/890855",
   "youtube": "",
   "year": null
  },
@@ -7785,7 +8115,7 @@
   "country": "Germany",
   "title": "Santa Lucia, Op. 63",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Santa+Lucia%2C+Op.+63+Oury",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/649062",
   "youtube": "",
   "year": null
  },
@@ -7845,7 +8175,7 @@
   "country": "Germany",
   "title": "3 Preludes and Fugues, Op. 16",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Preludes+and+Fugues%2C+Op.+16+Schumann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/08719",
   "youtube": "",
   "year": null
  },
@@ -7875,7 +8205,7 @@
   "country": "Germany",
   "title": "30 Mélodies de Robert Schumann",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=30+M%C3%A9lodies+de+Robert+Schumann+Schumann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/824057",
   "youtube": "",
   "year": null
  },
@@ -7915,7 +8245,7 @@
   "country": "Germany",
   "title": "Caprices en forme de valses, Op. 2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Caprices+en+forme+de+valses%2C+Op.+2+Schumann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/374017",
   "youtube": "",
   "year": null
  },
@@ -7935,7 +8265,7 @@
   "country": "Germany",
   "title": "Etude in A flat Major, WoO 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etude+in+A+flat+Major%2C+WoO+4+Schumann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/485196",
   "youtube": "",
   "year": null
  },
@@ -7965,7 +8295,7 @@
   "country": "Germany",
   "title": "Praeludien",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Praeludien+Schumann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/889035",
   "youtube": "",
   "year": null
  },
@@ -8045,7 +8375,7 @@
   "country": "Germany",
   "title": "Valse romantiques, Op. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Valse+romantiques%2C+Op.+4+Schumann",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/946824",
   "youtube": "",
   "year": null
  },
@@ -8075,7 +8405,7 @@
   "country": "Germany",
   "title": "6 leichte Stücklein",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+leichte+St%C3%BCcklein+Schweikert",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/882185",
   "youtube": "",
   "year": null
  },
@@ -8085,7 +8415,7 @@
   "country": "Germany",
   "title": "Fugue in G flat major",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Fugue+in+G+flat+major+Schweikert",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/880953",
   "youtube": "",
   "year": null
  },
@@ -8095,7 +8425,7 @@
   "country": "Germany",
   "title": "Novelette in D major",
   "key": "D major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Novelette+in+D+major+Schweikert",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/881880",
   "youtube": "",
   "year": null
  },
@@ -8120,7 +8450,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "3 Petites pièces faciles, Op. 25",
@@ -8130,7 +8460,17 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
+  "dates": "1844 (or 1850?) -1921",
+  "country": "Greece",
+  "title": "Allegretto, Op. 41",
+  "key": "",
+  "url": "https://imslp.org/wiki/Allegretto%2C_Op.41_(Foscarina%2C_Mario)",
+  "youtube": "https://youtu.be/EB2gijvYiRk",
+  "year": null
+ },
+ {
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Danse roumaine, Op. 35",
@@ -8140,7 +8480,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Feuillets d'album, Op. 20",
@@ -8150,7 +8490,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Fleur du souvenir",
@@ -8160,7 +8500,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Gavotte, Op. 19",
@@ -8170,17 +8510,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
-  "dates": "1844 (or 1850?) -1921",
-  "country": "Greece",
-  "title": "L'écho, Op. 27",
-  "key": "",
-  "url": "https://imslp.org/wiki/L'écho%2C_Op.27_(Foscarina%2C_Mario)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "L'enfant dort",
@@ -8190,7 +8520,17 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
+  "dates": "1844 (or 1850?) -1921",
+  "country": "Greece",
+  "title": "L'écho, Op. 27",
+  "key": "",
+  "url": "https://imslp.org/wiki/L'écho%2C_Op.27_(Foscarina%2C_Mario)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "La aldeana, Op. 39",
@@ -8200,7 +8540,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "La capricieuse",
@@ -8210,7 +8550,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "La cattiva",
@@ -8220,7 +8560,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Marche funèbre, Op. 22",
@@ -8230,7 +8570,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Mazarine-gavotte, Op. 21",
@@ -8240,7 +8580,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Mazurka brillante",
@@ -8250,7 +8590,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Menuet, Op. 24",
@@ -8260,7 +8600,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Remember",
@@ -8270,7 +8610,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Rondo brillant, Op. 15",
@@ -8280,7 +8620,7 @@
   "year": null
  },
  {
-  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou )",
+  "composer": "Foscarina, Mario (pseudonym for Marios Foskarina Damaskinou)",
   "dates": "1844 (or 1850?) -1921",
   "country": "Greece",
   "title": "Tarentelle brillante, Op. 18",
@@ -8305,7 +8645,7 @@
   "country": "Hungary",
   "title": "Libelle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Libelle+Wurmbrand-Vrabely",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/865251",
   "youtube": "",
   "year": null
  },
@@ -8315,7 +8655,7 @@
   "country": "Hungary",
   "title": "Melusine am Quelle (Melusina at the Fountain)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Melusine+am+Quelle+%28Melusina+at+the+Fountain%29+Wurmbrand-Vrabely",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/342151",
   "youtube": "https://youtu.be/MLyZ47wWY2M",
   "year": null
  },
@@ -8335,7 +8675,7 @@
   "country": "Italy",
   "title": "Allegro appassionato",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Allegro+appassionato+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223426",
   "youtube": "",
   "year": null
  },
@@ -8345,7 +8685,7 @@
   "country": "Italy",
   "title": "Barcarola",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Barcarola+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223428",
   "youtube": "",
   "year": null
  },
@@ -8355,7 +8695,7 @@
   "country": "Italy",
   "title": "Billy's Prayer",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Billy%27s+Prayer+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223694",
   "youtube": "",
   "year": null
  },
@@ -8365,7 +8705,7 @@
   "country": "Italy",
   "title": "Calma",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Calma+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223443",
   "youtube": "",
   "year": null
  },
@@ -8375,7 +8715,7 @@
   "country": "Italy",
   "title": "Capriccio",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Capriccio+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/103091",
   "youtube": "",
   "year": null
  },
@@ -8385,7 +8725,7 @@
   "country": "Italy",
   "title": "Children Singing",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Children+Singing+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223688",
   "youtube": "",
   "year": null
  },
@@ -8395,7 +8735,7 @@
   "country": "Italy",
   "title": "Dialogue",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Dialogue+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223710",
   "youtube": "",
   "year": null
  },
@@ -8405,7 +8745,7 @@
   "country": "Italy",
   "title": "Eileen's Refrain",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Eileen%27s+Refrain+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223431",
   "youtube": "https://www.youtube.com/watch?v=JrDhKfT1izk",
   "year": null
  },
@@ -8415,7 +8755,7 @@
   "country": "Italy",
   "title": "Frolics",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Frolics+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223693",
   "youtube": "",
   "year": null
  },
@@ -8425,7 +8765,7 @@
   "country": "Italy",
   "title": "Gavotte Rococo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Gavotte+Rococo+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/103096",
   "youtube": "",
   "year": null
  },
@@ -8435,7 +8775,7 @@
   "country": "Italy",
   "title": "Incertezza",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Incertezza+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223476",
   "youtube": "",
   "year": null
  },
@@ -8445,7 +8785,7 @@
   "country": "Italy",
   "title": "Indian Dance",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Indian+Dance+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223442",
   "youtube": "",
   "year": null
  },
@@ -8465,7 +8805,7 @@
   "country": "Italy",
   "title": "Making Money",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Making+Money+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223690",
   "youtube": "",
   "year": null
  },
@@ -8475,7 +8815,7 @@
   "country": "Italy",
   "title": "Noche de Verano",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Noche+de+Verano+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/254196",
   "youtube": "",
   "year": null
  },
@@ -8485,7 +8825,7 @@
   "country": "Italy",
   "title": "Nocturne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Nocturne+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/179048",
   "youtube": "",
   "year": null
  },
@@ -8515,7 +8855,7 @@
   "country": "Italy",
   "title": "Piccola Danza",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piccola+Danza+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/103097",
   "youtube": "",
   "year": null
  },
@@ -8525,7 +8865,7 @@
   "country": "Italy",
   "title": "Plaine Chromatique",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Plaine+Chromatique+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/254803",
   "youtube": "",
   "year": null
  },
@@ -8535,7 +8875,7 @@
   "country": "Italy",
   "title": "Playground",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Playground+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223651",
   "youtube": "",
   "year": null
  },
@@ -8545,7 +8885,7 @@
   "country": "Italy",
   "title": "Preludio",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Preludio+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223656",
   "youtube": "",
   "year": null
  },
@@ -8565,7 +8905,7 @@
   "country": "Italy",
   "title": "Scherzo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Scherzo+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223475",
   "youtube": "",
   "year": null
  },
@@ -8575,7 +8915,7 @@
   "country": "Italy",
   "title": "Studio (Etude)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Studio+%28Etude%29+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223400",
   "youtube": "",
   "year": null
  },
@@ -8585,7 +8925,7 @@
   "country": "Italy",
   "title": "Tango Habanero",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tango+Habanero+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/254195",
   "youtube": "",
   "year": null
  },
@@ -8595,7 +8935,7 @@
   "country": "Italy",
   "title": "Tema Fugato",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tema+Fugato+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223340",
   "youtube": "",
   "year": null
  },
@@ -8625,7 +8965,7 @@
   "country": "Italy",
   "title": "Truitje danst met klompjes (Truitje dances in her wooden shoes)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Truitje+danst+met+klompjes+%28Truitje+dances+in+her+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223463",
   "youtube": "",
   "year": null
  },
@@ -8645,7 +8985,7 @@
   "country": "Italy",
   "title": "Valse fantastique",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Valse+fantastique+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223686",
   "youtube": "",
   "year": null
  },
@@ -8665,7 +9005,7 @@
   "country": "Italy",
   "title": "Variations on London Bridge",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Variations+on+London+Bridge+Vi%C3%ABtor",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/223646",
   "youtube": "",
   "year": null
  },
@@ -8715,7 +9055,7 @@
   "country": "Mexico",
   "title": "Ilusión",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Ilusi%C3%B3n+Peralta",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/933246",
   "youtube": "",
   "year": null
  },
@@ -8725,7 +9065,7 @@
   "country": "Mexico",
   "title": "Margarita - Danza",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Margarita+-+Danza+Peralta",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/931987",
   "youtube": "",
   "year": null
  },
@@ -8735,7 +9075,7 @@
   "country": "Mexico",
   "title": "Un sueño",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Un+sue%C3%B1o+Peralta",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/933320",
   "youtube": "",
   "year": null
  },
@@ -8745,7 +9085,7 @@
   "country": "Mexico",
   "title": "Vuelta a la Patria - Schottisch",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Vuelta+a+la+Patria+-+Schottisch+Peralta",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/932128",
   "youtube": "",
   "year": null
  },
@@ -8783,9 +9123,9 @@
   "composer": "Wertheim, Rosy",
   "dates": "1888-1949",
   "country": "Netherlands",
-  "title": "6 Morceaux (Marche; Etude; Jeu d'enfants; Berceuse slave; Danse châmpetre; Petite valse)",
+  "title": "6 Morceaux (Marche; Etude; Jeu d'enfants; Berceuse slave; Danse champêtre; Petite valse)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Morceaux+%28Marche%3B+Etude%3B+Jeu+d%27enfants%3B+Berceuse+slave%3B+Wertheim",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868834",
   "youtube": "",
   "year": null
  },
@@ -8825,7 +9165,7 @@
   "country": "Norway",
   "title": "12 Little Fantasy Pieces, Op. 55 (Marsch, Ungarsk N° 1, Liden Vals, Et Farvel, Spansk,\nLändler, Bedstemors Menuet,Ungarsk N° 2, Romance, Barcarole, Polska, Springdans",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=12+Little+Fantasy+Pieces%2C+Op.+55+%28Marsch%2C+Ungarsk+Backer-Gr%C3%B8ndahl",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/82786",
   "youtube": "",
   "year": null
  },
@@ -8835,7 +9175,7 @@
   "country": "Norway",
   "title": "2 Concert-Etudes, Op. 57",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Concert-Etudes%2C+Op.+57+Backer-Gr%C3%B8ndahl",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/82768",
   "youtube": "https://youtu.be/qanhqKZjTwA",
   "year": null
  },
@@ -9115,7 +9455,7 @@
   "country": "Norway",
   "title": "Prélude et Grand Menuet, Op. 61",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pr%C3%A9lude+et+Grand+Menuet%2C+Op.+61+Backer-Gr%C3%B8ndahl",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/82787",
   "youtube": "",
   "year": null
  },
@@ -9215,7 +9555,7 @@
   "country": "Norway",
   "title": "Mazurka in F major, Op.14",
   "key": "F major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazurka+in+F+major%2C+Op.14+Dahl",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/179468",
   "youtube": "https://youtu.be/pMYjwRFnDVw",
   "year": null
  },
@@ -9255,7 +9595,7 @@
   "country": "Norway",
   "title": "2 Klaverstykker, Op. 10 (Via dolorosa, Liten mazurka)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Klaverstykker%2C+Op.+10+%28Via+dolorosa%2C+Liten+mazurka%29+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891455",
   "youtube": "",
   "year": null
  },
@@ -9265,7 +9605,7 @@
   "country": "Norway",
   "title": "2 Pianostykker, Op. 7 (Intermezzo, Mot Høst)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Pianostykker%2C+Op.+7+%28Intermezzo%2C+Mot+H%C3%B8st%29+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891457",
   "youtube": "",
   "year": null
  },
@@ -9275,7 +9615,7 @@
   "country": "Norway",
   "title": "3 Små Klaverstykker (Sommerfugler, Kvell, Vannlije)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Sm%C3%A5+Klaverstykker+%28Sommerfugler%2C+Kvell%2C+Vannlije%29+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891458",
   "youtube": "",
   "year": null
  },
@@ -9285,7 +9625,7 @@
   "country": "Norway",
   "title": "4 Idyller, Op. 4 (Barcarole, Printemps, Andante lugubre, Berceuse)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=4+Idyller%2C+Op.+4+%28Barcarole%2C+Printemps%2C+Andante+lugubre%2C+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891463",
   "youtube": "https://youtu.be/8R7DoS0tHSY and https://youtu.be/HwsWe4vjxog?si=51HNi5ia2OnWjCTH",
   "year": null
  },
@@ -9295,7 +9635,7 @@
   "country": "Norway",
   "title": "4 Skizzer, Op. 3 (Menuet, Maisang, Ved Stranden, Gammeldags)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=4+Skizzer%2C+Op.+3+%28Menuet%2C+Maisang%2C+Ved+Stranden%2C+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891459",
   "youtube": "",
   "year": null
  },
@@ -9305,7 +9645,7 @@
   "country": "Norway",
   "title": "6 Stykker for Klaver, Op. 6 (Menuet, Vussevans, Godnat, Solskindag, Hjemve, Springvad)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Stykker+for+Klaver%2C+Op.+6+%28Menuet%2C+Vussevans%2C+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891461",
   "youtube": "",
   "year": null
  },
@@ -9315,7 +9655,7 @@
   "country": "Norway",
   "title": "Bagateller (Et sagn, Springdans, Klage, Mazurka, Albumblad, Sommerfugl)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Bagateller+%28Et+sagn%2C+Springdans%2C+Klage%2C+Mazurka%2C+Albumblad%2C+Sommerfugl%29+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891460",
   "youtube": "",
   "year": null
  },
@@ -9325,7 +9665,7 @@
   "country": "Norway",
   "title": "Små Klaverstykker, Op. 8 (Menuet, Stemning, Liten vals, Romance)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sm%C3%A5+Klaverstykker%2C+Op.+8+%28Menuet%2C+Stemning%2C+Liten+vals%2C+Enger",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/891464",
   "youtube": "",
   "year": null
  },
@@ -9395,7 +9735,7 @@
   "country": "Norway",
   "title": "Drømebilder (Vision, Baadsang, Trolddans, Valse fantastique, Juninat, Morgen paa Fjorden, Klostersang)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Dr%C3%B8mebilder+%28Vision%2C+Baadsang%2C+Trolddans%2C+Valse+fantastique%2C+Juninat%2C+Morgen+Laerum-Liebig",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/274348",
   "youtube": "https://www.youtube.com/watch?v=Bklp-V_UjBc and and https://youtu.be/rr05cnaEElE",
   "year": null
  },
@@ -9470,6 +9810,16 @@
   "year": null
  },
  {
+  "composer": "Lindeman, Anna Severine",
+  "dates": "1859-1938",
+  "country": "Norway",
+  "title": "6 Karakterstykker (Zigunersken)",
+  "key": "",
+  "url": "",
+  "youtube": "https://youtu.be/HRYX2DhmMUM",
+  "year": null
+ },
+ {
   "composer": "Lund, Birgit",
   "dates": "1843-1913",
   "country": "Norway",
@@ -9515,7 +9865,7 @@
   "country": "Norway",
   "title": "5 Morceaux Lyriques (Impromptu; Melodie; Valse Lente; Improvisata; Novellette)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=5+Morceaux+Lyriques+%28Impromptu%3B+Melodie%3B+Valse+Lente%3B+Improvisata%3B+Lund-Skabo",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/952610",
   "youtube": "",
   "year": null
  },
@@ -9535,23 +9885,13 @@
   "country": "Norway",
   "title": "Concert Etude, Op. 38",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Concert+Etude%2C+Op.+38+Lund-Skabo",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/905229",
   "youtube": "",
   "year": null
  },
  {
   "composer": "Lund-Skabo, Signe",
-  "dates": "1868-1950",
-  "country": "Norway",
-  "title": "Festforspil, Op. 21",
-  "key": "",
-  "url": "https://imslp.org/wiki/Festforspill%2C_Op.21_(Lund-Skabo%2C_Signe)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Lund-Skabo, Signe",
-  "dates": "1868-1950",
+  "dates": "1843-1913",
   "country": "Norway",
   "title": "Festforspill, Op. 21",
   "key": "",
@@ -9561,17 +9901,7 @@
  },
  {
   "composer": "Lund-Skabo, Signe",
-  "dates": "1868-1950",
-  "country": "Norway",
-  "title": "Legende",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Legende+Lund-Skabo",
-  "youtube": "https://youtu.be/f-WrfGeqmMQ",
-  "year": null
- },
- {
-  "composer": "Lund-Skabo, Signe",
-  "dates": "1868-1950",
+  "dates": "1843-1913",
   "country": "Norway",
   "title": "Legende",
   "key": "",
@@ -9635,7 +9965,7 @@
   "country": "Norway",
   "title": "Album pour piano No. 4 (Den gamle Grube, Skjælmeri, Ensomhed, Chrysanthème, Thema med Variationer, Fremad!)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Album+pour+piano+No.+4+%28Den+gamle+Grube%2C+L%C3%B8venskiold",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/271697",
   "youtube": "https://youtu.be/QzUgPIdcgKk",
   "year": null
  },
@@ -9695,7 +10025,7 @@
   "country": "Norway",
   "title": "5 Små Klaverstykker, Op. 2 (Mazurka, Vals, Romance, Vaarstemning, Menuet)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=5+Sm%C3%A5+Klaverstykker%2C+Op.+2+%28Mazurka%2C+Vals%2C+Romance%2C+Wiel",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/300795",
   "youtube": "https://youtu.be/sVRS9DRr65Y and https://youtu.be/UF5Vlzumcgg",
   "year": null
  },
@@ -9705,7 +10035,67 @@
   "country": "Philippines",
   "title": "Sambaguita",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sambaguita+Paterno",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/656034",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Borkowic, Maria",
+  "dates": "1866-?",
+  "country": "Poland",
+  "title": "3 Morceaux caractéristiques (2.Idylle champêtre, 3.Etude: Les Eaux enjôleuses",
+  "key": "",
+  "url": "https://imslp.org/wiki/3_Morceaux_caractéristiques%2C_Op.5_(Borkowic%2C_Maria)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Borkowic, Maria",
+  "dates": "1866-?",
+  "country": "Poland",
+  "title": "Ghiribizzo",
+  "key": "",
+  "url": "https://imslp.org/wiki/Ghiribizzo_(Borkowic%2C_Maria)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Borkowic, Maria",
+  "dates": "1866-?",
+  "country": "Poland",
+  "title": "Incantagione",
+  "key": "",
+  "url": "https://imslp.org/wiki/Incantagione_(Borkowic%2C_Maria)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Borkowic, Maria",
+  "dates": "1866-?",
+  "country": "Poland",
+  "title": "L'ultimo canto",
+  "key": "",
+  "url": "https://imslp.org/wiki/L'Ultimo_Canto_(Borkowic%2C_Maria)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Borkowic, Maria",
+  "dates": "1866-?",
+  "country": "Poland",
+  "title": "Mazurka, Op. 31 #23",
+  "key": "",
+  "url": "https://imslp.org/wiki/Mazurka%2C_Op.31_No.23_(Borkowic%2C_Maria)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Brzezinska, Filipina",
+  "dates": "1800-1886",
+  "country": "Poland",
+  "title": "W górach",
+  "key": "",
+  "url": "https://imslp.org/wiki/W_g%C3%B3rach_(Brzezi%C5%84ska%2C_Filipina)",
   "youtube": "",
   "year": null
  },
@@ -9830,66 +10220,6 @@
   "year": null
  },
  {
-  "composer": "Borkowic, Maria",
-  "dates": "1866-?",
-  "country": "Poland",
-  "title": "3 Morceaux caractéristiques (2.Idylle champêtre, 3.Etude: Les Eaux enjôleuses",
-  "key": "",
-  "url": "https://imslp.org/wiki/3_Morceaux_caractéristiques%2C_Op.5_(Borkowic%2C_Maria)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Borkowic, Maria",
-  "dates": "1886-?",
-  "country": "Poland",
-  "title": "Ghiribizzo",
-  "key": "",
-  "url": "https://imslp.org/wiki/Ghiribizzo_(Borkowic%2C_Maria)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Borkowic, Maria",
-  "dates": "1886-?",
-  "country": "Poland",
-  "title": "Incantagione",
-  "key": "",
-  "url": "https://imslp.org/wiki/Incantagione_(Borkowic%2C_Maria)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Borkowic, Maria",
-  "dates": "1866-?",
-  "country": "Poland",
-  "title": "L'ultimo canto",
-  "key": "",
-  "url": "https://imslp.org/wiki/L'Ultimo_Canto_(Borkowic%2C_Maria)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Borkowic, Maria",
-  "dates": "1866-?",
-  "country": "Poland",
-  "title": "Mazurka, Op. 31 #23",
-  "key": "",
-  "url": "https://imslp.org/wiki/Mazurka%2C_Op.31_No.23_(Borkowic%2C_Maria)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Brzezinska, Filipina",
-  "dates": "1800-1886",
-  "country": "Poland",
-  "title": "W górach",
-  "key": "",
-  "url": "https://imslp.org/wiki/W_g%C3%B3rach_(Brzezi%C5%84ska%2C_Filipina)",
-  "youtube": "",
-  "year": null
- },
- {
   "composer": "Dorabialska, Helena",
   "dates": "1895-1944",
   "country": "Poland",
@@ -9901,7 +10231,7 @@
  },
  {
   "composer": "Dorabialska, Helena",
-  "dates": "1892-1932",
+  "dates": "1895-1944",
   "country": "Poland",
   "title": "Chorał",
   "key": "",
@@ -9930,6 +10260,76 @@
   "year": null
  },
  {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Gavotte impériale (London, 1890) — played for Queen Victoria; recorded by the composer in 1904",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": 1890
+ },
+ {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Court Gavotte (London, 1890)",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": 1890
+ },
+ {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Mazurka, Op. 6 (1900)",
+  "key": "E minor",
+  "url": "",
+  "youtube": "",
+  "year": 1900
+ },
+ {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Mazourka, Op. 14 (London, 1902)",
+  "key": "A major",
+  "url": "",
+  "youtube": "",
+  "year": 1902
+ },
+ {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Morceau gracieux (London, 1897)",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": 1897
+ },
+ {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Mountain Scenes (dedicated to Clara Schumann)",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Janotha, Natalia",
+  "dates": "1856-1932",
+  "country": "Poland",
+  "title": "Polonaise funèbre, Op. 100 (Amsterdam, c. 1926)",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": 1926
+ },
+ {
   "composer": "Landowska, Wanda",
   "dates": "1897-1959",
   "country": "Poland",
@@ -9955,7 +10355,7 @@
   "country": "Poland",
   "title": "Chant d'amour",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Chant+d%27amour+Niewiarowska-Brzozowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/972347",
   "youtube": "",
   "year": null
  },
@@ -9965,7 +10365,7 @@
   "country": "Poland",
   "title": "Mazurka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazurka+Niewiarowska-Brzozowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/972348",
   "youtube": "",
   "year": null
  },
@@ -9975,7 +10375,7 @@
   "country": "Poland",
   "title": "Polonaise",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Polonaise+Niewiarowska-Brzozowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/972349",
   "youtube": "",
   "year": null
  },
@@ -9985,7 +10385,7 @@
   "country": "Poland",
   "title": "Waltz",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Waltz+Niewiarowska-Brzozowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/972351",
   "youtube": "",
   "year": null
  },
@@ -9995,7 +10395,7 @@
   "country": "Poland",
   "title": "Affrique Occidentale (Moudjihad; La Foulah)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Affrique+Occidentale+%28Moudjihad%3B+La+Foulah%29+Ossendowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/946646 and https://imslp.org/wiki/Special:ImagefromIndex/946647",
   "youtube": "",
   "year": null
  },
@@ -10005,7 +10405,7 @@
   "country": "Poland",
   "title": "3 Morceaux pour piano, Op. 1 (Polka in G minor; Polka in C Major, Berceuse in G minor)",
   "key": "G minor",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Morceaux+pour+piano%2C+Op.+1+%28Polka+in+Parczewska-Mackiewicz",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/935147",
   "youtube": "",
   "year": null
  },
@@ -10075,7 +10475,7 @@
   "country": "Poland",
   "title": "Etude in D major",
   "key": "D major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etude+in+D+major+Wojciechowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/616487",
   "youtube": "",
   "year": null
  },
@@ -10085,7 +10485,7 @@
   "country": "Poland",
   "title": "Etude Moderne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etude+Moderne+Wojciechowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/506670",
   "youtube": "",
   "year": null
  },
@@ -10095,7 +10495,7 @@
   "country": "Poland",
   "title": "Krakowiak & Mazurek",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Krakowiak+%26+Mazurek+Wojciechowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/616489",
   "youtube": "",
   "year": null
  },
@@ -10105,7 +10505,7 @@
   "country": "Poland",
   "title": "Krakowiak in A major",
   "key": "A major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Krakowiak+in+A+major+Wojciechowska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/616488",
   "youtube": "",
   "year": null
  },
@@ -10135,7 +10535,7 @@
   "country": "Poland",
   "title": "Chanson sans paroles, Op. 2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Chanson+sans+paroles%2C+Op.+2+%C5%81opuska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/367288",
   "youtube": "https://youtu.be/kvNeWdqyrqA",
   "year": null
  },
@@ -10155,7 +10555,7 @@
   "country": "Poland",
   "title": "Matine printanière, Op. 5",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Matine+printani%C3%A8re%2C+Op.+5+%C5%81opuska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/696953",
   "youtube": "https://youtu.be/mHI6IYOHwcQ",
   "year": null
  },
@@ -10165,7 +10565,7 @@
   "country": "Poland",
   "title": "Question, Op. 6",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Question%2C+Op.+6+%C5%81opuska",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/696954",
   "youtube": "",
   "year": null
  },
@@ -10186,16 +10586,6 @@
   "title": "Bunny",
   "key": "",
   "url": "https://imslp.org/wiki/Bunny_(Bekman-Shcherbina%2C_Yelena)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Bronsart, Ingeborg von",
-  "dates": "1840-1913",
-  "country": "Russia",
-  "title": "Fantasie, Op. 18",
-  "key": "",
-  "url": "https://imslp.org/wiki/Fantasie%2C_Op.18_(Bronsart%2C_Ingeborg)",
   "youtube": "",
   "year": null
  },
@@ -10305,7 +10695,7 @@
   "country": "Russia",
   "title": "Piano Sonata no. 1",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piano+Sonata+no.+1+Eckhardt-Gramatt%C3%A9",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/",
   "youtube": "",
   "year": null
  },
@@ -10315,7 +10705,7 @@
   "country": "Russia",
   "title": "Album of Children's Pieces",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Album+of+Children%27s+Pieces+Gnesina",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/903673",
   "youtube": "",
   "year": null
  },
@@ -10325,7 +10715,7 @@
   "country": "Russia",
   "title": "Little Pieces",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Little+Pieces+Gnesina",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/903672",
   "youtube": "",
   "year": null
  },
@@ -10385,7 +10775,7 @@
   "country": "Russia",
   "title": "Gavotte et valse triste",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Gavotte+et+valse+triste+Piantkovskaya-Gumovskaya",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/896469",
   "youtube": "",
   "year": null
  },
@@ -10405,7 +10795,7 @@
   "country": "Russia",
   "title": "Uriel Acosta (arrangement number from her opera)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Uriel+Acosta+%28arrangement+number+from+her+opera%29+Serova",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/967406",
   "youtube": "",
   "year": null
  },
@@ -10425,7 +10815,7 @@
   "country": "Russia",
   "title": "Etude de Salon",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Etude+de+Salon+Zybina",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/566411",
   "youtube": "",
   "year": null
  },
@@ -10435,7 +10825,7 @@
   "country": "Russia",
   "title": "Mazurka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mazurka+Zybina",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/566415",
   "youtube": "https://www.youtube.com/watch?v=uItu3AaEV_4",
   "year": null
  },
@@ -10465,7 +10855,7 @@
   "country": "Scotland",
   "title": "5 Scottish Songs",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=5+Scottish+Songs+Hopekirk",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/817217",
   "youtube": "",
   "year": null
  },
@@ -10485,7 +10875,7 @@
   "country": "Scotland",
   "title": "Romance in A minor",
   "key": "A minor",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Romance+in+A+minor+Hopekirk",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/116231",
   "youtube": "https://youtu.be/NoTDlaDhA6s",
   "year": null
  },
@@ -10495,7 +10885,7 @@
   "country": "Scotland",
   "title": "Serenade",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Serenade+Hopekirk",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/919763",
   "youtube": "",
   "year": null
  },
@@ -10505,7 +10895,7 @@
   "country": "Scotland",
   "title": "Seranata (Suite - Maestoso; Minuet; Sarabande; Arioso; Rigaudon;",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Seranata+%28Suite+-+Maestoso%3B+Minuet%3B+Sarabande%3B+Arioso%3B+Rigaudon%3B+Hopekirk",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/862098",
   "youtube": "",
   "year": null
  },
@@ -10535,7 +10925,7 @@
   "country": "Scotland",
   "title": "Scots Suites: Book I Harvest Lilts",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Scots+Suites%3A+Book+I+Harvest+Lilts+Kennedy-Fraser",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/299382",
   "youtube": "https://www.youtube.com/watch?v=0rklk3gYnFE",
   "year": null
  },
@@ -10555,7 +10945,7 @@
   "country": "Spain",
   "title": "Divertimentos por todos los tonos mayores e menores",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Divertimentos+por+todos+los+tonos+mayores+e+menores+Ledesma+Ancioa",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/720948",
   "youtube": "",
   "year": null
  },
@@ -10605,7 +10995,7 @@
   "country": "Sweden",
   "title": "Fem smärra tonbilder/5 Small Tone Pictures, Op. 7",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Fem+sm%C3%A4rra+tonbilder%2F5+Small+Tone+Pictures%2C+Op.+7+Andr%C3%A9e",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/433757",
   "youtube": "https://youtu.be/xJaBVucOgOM",
   "year": null
  },
@@ -10680,12 +11070,122 @@
   "year": null
  },
  {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Nocturne",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1855
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Tarantella",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1855
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Trois Études",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1855
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Fuge über die Namen Maria und Marthy von Sabinin (unpublished)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1859
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Fugen (unpublished)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1859
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Toccaten (unpublished)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1859
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Variationen (unpublished)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1859
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Variationen über Themen von Bach (unpublished)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1859
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Kaiser-Wilhelm-Marsch (solo piano version)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1871
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Vier Klavierstücke (Valse-Caprice; Impromptu; Wiegenlied No. 1; Wiegenlied No. 2)",
+  "key": "",
+  "url": "https://www.swedishmusicalheritage.com/composers/bronsart-von-schellendorf-ingeborg/",
+  "youtube": "",
+  "year": 1874
+ },
+ {
+  "composer": "Bronsart, Ingeborg von",
+  "dates": "1840-1913",
+  "country": "Sweden",
+  "title": "Phantasie in G-sharp minor, Op. 18",
+  "key": "G-sharp minor",
+  "url": "https://imslp.org/wiki/Fantasie%2C_Op.18_(Bronsart%2C_Ingeborg)",
+  "youtube": "",
+  "year": 1891
+ },
+ {
   "composer": "Maier, Amanda",
   "dates": "1853-1894",
   "country": "Sweden",
   "title": "25 Preludes for Piano",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=25+Preludes+for+Piano+Maier",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/863887",
   "youtube": "",
   "year": null
  },
@@ -10775,7 +11275,7 @@
   "country": "Sweden",
   "title": "2 Stämningsstycken (Mood Pieces) (Melankoli,\nGlada tankar)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+St%C3%A4mningsstycken+%28Mood+Pieces%29+%28Melankoli%2C+Glada+tankar%29+Peyron",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/434867",
   "youtube": "https://youtu.be/3qvCM6nA-60 and https://youtu.be/Eyr0TWCXJDI",
   "year": null
  },
@@ -10895,7 +11395,7 @@
   "country": "Sweden",
   "title": "Gångtrall och polska",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=G%C3%A5ngtrall+och+polska+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707218",
   "youtube": "",
   "year": null
  },
@@ -10905,7 +11405,7 @@
   "country": "Sweden",
   "title": "Gossar blå - march",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Gossar+bl%C3%A5+-+march+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707219",
   "youtube": "",
   "year": null
  },
@@ -10915,7 +11415,7 @@
   "country": "Sweden",
   "title": "Inga Lill' - polka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Inga+Lill%27+-+polka+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707220",
   "youtube": "",
   "year": null
  },
@@ -10925,7 +11425,7 @@
   "country": "Sweden",
   "title": "Svensk lösen - march",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Svensk+l%C3%B6sen+-+march+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707222",
   "youtube": "",
   "year": null
  },
@@ -10935,7 +11435,7 @@
   "country": "Sweden",
   "title": "Under blågul flagg - march",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Under+bl%C3%A5gul+flagg+-+march+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707225",
   "youtube": "",
   "year": null
  },
@@ -10945,7 +11445,7 @@
   "country": "Sweden",
   "title": "Upsalaluft - polka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Upsalaluft+-+polka+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707226",
   "youtube": "",
   "year": null
  },
@@ -10955,7 +11455,7 @@
   "country": "Sweden",
   "title": "Victoria-marsch",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Victoria-marsch+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707227",
   "youtube": "",
   "year": null
  },
@@ -10965,7 +11465,7 @@
   "country": "Sweden",
   "title": "Vid Fyris - waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Vid+Fyris+-+waltzes+Wahlstr%C3%B6m",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707228",
   "youtube": "",
   "year": null
  },
@@ -10995,7 +11495,7 @@
   "country": "USA",
   "title": "2 Silhouettes (When Evening Shadow Falls)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=2+Silhouettes+%28When+Evening+Shadow+Falls%29+Adair",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/928967",
   "youtube": "",
   "year": null
  },
@@ -11005,7 +11505,7 @@
   "country": "USA",
   "title": "Up Hill and Down",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Up+Hill+and+Down+Adair",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/211432",
   "youtube": "https://youtu.be/A9ciGtLQxfI",
   "year": null
  },
@@ -11035,7 +11535,7 @@
   "country": "USA",
   "title": "Barcarolle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Barcarolle+Adams",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/383748",
   "youtube": "https://youtu.be/fDEEJNO_Ffs",
   "year": null
  },
@@ -11055,7 +11555,7 @@
   "country": "USA",
   "title": "Pussy Willow March, Op. 8, no. 3",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pussy+Willow+March%2C+Op.+8%2C+no.+3+Adams",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/709781",
   "youtube": "",
   "year": null
  },
@@ -11065,7 +11565,7 @@
   "country": "USA",
   "title": "Forest Horns",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Forest+Horns+Alden",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/918241",
   "youtube": "",
   "year": null
  },
@@ -11075,7 +11575,7 @@
   "country": "USA",
   "title": "The Night Wind",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Night+Wind+Alden",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/918209",
   "youtube": "",
   "year": null
  },
@@ -11095,7 +11595,7 @@
   "country": "USA",
   "title": "Southland Sketches (On the Lagoon, Mardi Gras Revel, A Creole Roundelay, On a Southern Balcony)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Southland+Sketches+%28On+the+Lagoon%2C+Mardi+Gras+Revel%2C+Alden",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/381149",
   "youtube": "",
   "year": null
  },
@@ -11115,7 +11615,7 @@
   "country": "USA",
   "title": "Barcarolle",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Barcarolle+Ashford",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/632917",
   "youtube": "https://youtu.be/N_zuTGrmgN8",
   "year": null
  },
@@ -11125,7 +11625,7 @@
   "country": "USA",
   "title": "Siciliano",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Siciliano+Ashford",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/632918",
   "youtube": "https://youtu.be/N_zuTGrmgN8",
   "year": null
  },
@@ -11155,7 +11655,7 @@
   "country": "USA",
   "title": "Holland Suite (On the Great Dyke, The Windmills, The Wide Meadowland, Wooden Shoe Dance, The Dutch Mother’s Good Night",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Holland+Suite+%28On+the+Great+Dyke%2C+The+Windmills%2C+Barbour",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/180887",
   "youtube": "",
   "year": null
  },
@@ -11175,7 +11675,7 @@
   "country": "USA",
   "title": "The Surging Sea",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Surging+Sea+Barbour",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/867979",
   "youtube": "",
   "year": null
  },
@@ -11185,7 +11685,7 @@
   "country": "USA",
   "title": "6 Little Pieces (The Brave Soldier's March)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Little+Pieces+%28The+Brave+Soldier%27s+March%29+Bartlett",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/970942",
   "youtube": "",
   "year": null
  },
@@ -11195,7 +11695,7 @@
   "country": "USA",
   "title": "Meditation",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Meditation+Bartlett",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/970941",
   "youtube": "",
   "year": null
  },
@@ -11215,7 +11715,7 @@
   "country": "USA",
   "title": "6 Preludes, Op. 15",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=6+Preludes%2C+Op.+15+Bauer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/173566",
   "youtube": "https://youtu.be/ZpqxEu46i-c and https://youtu.be/8zIiNzVy4QQ",
   "year": null
  },
@@ -11245,7 +11745,7 @@
   "country": "USA",
   "title": "American  Youth Concerto, Op. 36 (orchestra score)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=American+Youth+Concerto%2C+Op.+36+%28orchestra+score%29+Bauer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/949040",
   "youtube": "",
   "year": null
  },
@@ -11345,7 +11845,7 @@
   "country": "USA",
   "title": "By the Still Waters, Op. 114",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=By+the+Still+Waters%2C+Op.+114+Beach",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/29318",
   "youtube": "https://youtu.be/3vMI6in1QBg",
   "year": null
  },
@@ -11405,7 +11905,7 @@
   "country": "USA",
   "title": "From Blackbird Hills, Op. 83",
   "key": "",
-  "url": "https://imslp.org/wiki/Hermit_Thrush%2C_Op.92_(Beach%2C_Amy_Marcy)",
+  "url": "https://imslp.org/wiki/From_Blackbird_Hills%2C_Op.83_(Beach%2C_Amy_Marcy)",
   "youtube": "",
   "year": null
  },
@@ -11425,7 +11925,7 @@
   "country": "USA",
   "title": "From Six to Twelve, Op. 119 (Sliding on the Ice; Secrets of the Attic)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=From+Six+to+Twelve%2C+Op.+119+%28Sliding+on+Beach",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/920135 and https://imslp.org/wiki/Special:ImagefromIndex/971790",
   "youtube": "",
   "year": null
  },
@@ -11455,7 +11955,7 @@
   "country": "USA",
   "title": "Menuet Italien",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Menuet+Italien+Beach",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/835927",
   "youtube": "",
   "year": null
  },
@@ -11466,6 +11966,16 @@
   "title": "Nocturne, Op. 107",
   "key": "",
   "url": "https://imslp.org/wiki/Nocturne%2C_Op.107_(Beach%2C_Amy_Marcy)",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Beach, Amy",
+  "dates": "1867-1944",
+  "country": "USA",
+  "title": "Old Chapel by Moonlight, Op. 106",
+  "key": "",
+  "url": "https://imslp.org/wiki/Old_Chapel_by_Moonlight%2C_Op.106_(Beach%2C_Amy_Marcy)",
   "youtube": "",
   "year": null
  },
@@ -11595,7 +12105,7 @@
   "country": "USA",
   "title": "Poinsetta",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Poinsetta+Bilbro",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/634190",
   "youtube": "",
   "year": null
  },
@@ -11625,7 +12135,7 @@
   "country": "USA",
   "title": "The Pointsetta - Etude Valse",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Pointsetta+-+Etude+Valse+Bilbro",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/634190",
   "youtube": "",
   "year": null
  },
@@ -11635,7 +12145,7 @@
   "country": "USA",
   "title": "The Snow-storm",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Snow-storm+Bilbro",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/634190",
   "youtube": "",
   "year": null
  },
@@ -11755,7 +12265,7 @@
   "country": "USA",
   "title": "Hearts Haven Waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Hearts+Haven+Waltzes+Blanke-Belcher",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/864004",
   "youtube": "",
   "year": null
  },
@@ -11765,7 +12275,7 @@
   "country": "USA",
   "title": "Polaire Waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Polaire+Waltzes+Blanke-Belcher",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/866943",
   "youtube": "",
   "year": null
  },
@@ -11795,7 +12305,7 @@
   "country": "USA",
   "title": "In the Candle-Light",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=In+the+Candle-Light+Brown",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/686963",
   "youtube": "",
   "year": null
  },
@@ -11835,7 +12345,7 @@
   "country": "USA",
   "title": "Feather Foot - Intermezzo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Feather+Foot+-+Intermezzo+Caldwell",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/863269",
   "youtube": "",
   "year": null
  },
@@ -11845,7 +12355,7 @@
   "country": "USA",
   "title": "Young Antelope - Intermezzo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Young+Antelope+-+Intermezzo+Caldwell",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868860",
   "youtube": "",
   "year": null
  },
@@ -11965,7 +12475,7 @@
   "country": "USA",
   "title": "Mumure d'amour, Op. 9",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mumure+d%27amour%2C+Op.+9+Charbonnet",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/543340",
   "youtube": "https://youtu.be/95NHXfV9vgc",
   "year": null
  },
@@ -12055,7 +12565,7 @@
   "country": "USA",
   "title": "The Advance of Portola - Military March and Two Step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Advance+of+Portola+-+Military+March+and+Cooper",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/861408",
   "youtube": "",
   "year": null
  },
@@ -12115,7 +12625,7 @@
   "country": "USA",
   "title": "Clarice Waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Clarice+Waltzes+Doro",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/862054",
   "youtube": "",
   "year": null
  },
@@ -12125,7 +12635,7 @@
   "country": "USA",
   "title": "Skip",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Skip+Erickson",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/867567",
   "youtube": "",
   "year": null
  },
@@ -12135,7 +12645,7 @@
   "country": "USA",
   "title": "Sunshine - Three step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sunshine+-+Three+step+Erickson",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/867904",
   "youtube": "",
   "year": null
  },
@@ -12145,7 +12655,7 @@
   "country": "USA",
   "title": "La Portola - Spanish Dance",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+Portola+-+Spanish+Dance+France",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/864552",
   "youtube": "",
   "year": null
  },
@@ -12255,7 +12765,7 @@
   "country": "USA",
   "title": "Water Sprite",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Water+Sprite+Goodrich",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/893678",
   "youtube": "",
   "year": null
  },
@@ -12275,7 +12785,7 @@
   "country": "USA",
   "title": "Janice Meredith Waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Janice+Meredith+Waltzes+Gustin",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/864245",
   "youtube": "",
   "year": null
  },
@@ -12285,7 +12795,7 @@
   "country": "USA",
   "title": "Topsy Turvy - Two step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Topsy+Turvy+-+Two+step+Gustin",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868378",
   "youtube": "",
   "year": null
  },
@@ -12295,7 +12805,7 @@
   "country": "USA",
   "title": "When Knighthood Was In Flower - Waltzes",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=When+Knighthood+Was+In+Flower+-+Waltzes+Gustin",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868717",
   "youtube": "",
   "year": null
  },
@@ -12315,7 +12825,7 @@
   "country": "USA",
   "title": "Swellest in Town - march and two-step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Swellest+in+Town+-+march+and+two-step+Heckard",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/718594",
   "youtube": "",
   "year": null
  },
@@ -12345,9 +12855,19 @@
   "country": "USA",
   "title": "A Memory",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=A+Memory+Hill",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/686161",
   "youtube": "",
   "year": null
+ },
+ {
+  "composer": "Holt, Nora Douglas",
+  "dates": "1885-1974",
+  "country": "USA",
+  "title": "Negro Dance, Op. 25 No. 1 (publ. Music and Poetry, 1921) — sole survivor of ~200 works stolen in 1926",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": 1921
  },
  {
   "composer": "Householder, Zema D. (also goes by last name Randale)",
@@ -12355,7 +12875,7 @@
   "country": "USA",
   "title": "Mutilation Rag (arranged by Burrell Van Buren)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Mutilation+Rag+%28arranged+by+Burrell+Van+Buren%29+Householder",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/700388",
   "youtube": "",
   "year": null
  },
@@ -12365,7 +12885,7 @@
   "country": "USA",
   "title": "Nocturne",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Nocturne+Howe",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/686480",
   "youtube": "https://youtu.be/n27k8DE0csM",
   "year": null
  },
@@ -12375,7 +12895,7 @@
   "country": "USA",
   "title": "Betty's Music Box",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Betty%27s+Music+Box+Jacobs-Bond",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/861718",
   "youtube": "",
   "year": null
  },
@@ -12385,7 +12905,7 @@
   "country": "USA",
   "title": "The Blue Flag - Military March",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Blue+Flag+-+Military+March+Jacobs-Bond",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/721903",
   "youtube": "",
   "year": null
  },
@@ -12395,7 +12915,7 @@
   "country": "USA",
   "title": "Memories of Versailles - Valse Brillante",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Memories+of+Versailles+-+Valse+Brillante+Jacobs-Bond",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/865231",
   "youtube": "",
   "year": null
  },
@@ -12405,7 +12925,7 @@
   "country": "USA",
   "title": "Sunset",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sunset+Jacobs-Bond",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/867903",
   "youtube": "",
   "year": null
  },
@@ -12435,7 +12955,7 @@
   "country": "USA",
   "title": "What's Your Hurry? - Eccentric fox trot",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=What%27s+Your+Hurry%3F+-+Eccentric+fox+trot+Kamman",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/868671",
   "youtube": "",
   "year": null
  },
@@ -12471,11 +12991,11 @@
  },
  {
   "composer": "Koninsky, Sadie",
-  "dates": "1879-1952",
+  "dates": "1879-1962",
   "country": "USA",
   "title": "Phoebe Thompson's Cake Walk",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Phoebe+Thompson%27s+Cake+Walk+Koninsky",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708087",
   "youtube": "",
   "year": null
  },
@@ -12531,7 +13051,7 @@
  },
  {
   "composer": "Krogmann, Carrie Williams (w/many pseud.)",
-  "dates": "1847-1935",
+  "dates": "1860-1943",
   "country": "USA",
   "title": "Yvonne, Op. 117",
   "key": "",
@@ -12660,6 +13180,16 @@
   "year": null
  },
  {
+  "composer": "Mana-Zucca (Augusta Zuckermann)",
+  "dates": "1885-1981",
+  "country": "USA",
+  "title": "Zouaves' Drill, Op. 68 — virtuoso concert piece",
+  "key": "",
+  "url": "",
+  "youtube": "",
+  "year": null
+ },
+ {
   "composer": "Marckwald, Grace",
   "dates": "1845-1943",
   "country": "USA",
@@ -12685,7 +13215,7 @@
   "country": "USA",
   "title": "Jack and the Beanstalk",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Jack+and+the+Beanstalk+Maxim",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/644404",
   "youtube": "",
   "year": null
  },
@@ -12695,7 +13225,7 @@
   "country": "USA",
   "title": "The Grandfather Clock",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Grandfather+Clock+Maxim",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/723558",
   "youtube": "",
   "year": null
  },
@@ -12705,7 +13235,7 @@
   "country": "USA",
   "title": "Anona - Intermezzo Two Step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Anona+-+Intermezzo+Two+Step+McKinley",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/657183",
   "youtube": "",
   "year": null
  },
@@ -12715,7 +13245,7 @@
   "country": "USA",
   "title": "Feather Queen - Intermezzo Two Step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Feather+Queen+-+Intermezzo+Two+Step+McKinley",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/863280",
   "youtube": "",
   "year": null
  },
@@ -12735,7 +13265,7 @@
   "country": "USA",
   "title": "Paprika - march two-step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Paprika+-+march+two-step+Moore",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707735",
   "youtube": "",
   "year": null
  },
@@ -12755,7 +13285,7 @@
   "country": "USA",
   "title": "The Base-ball Bug",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Base-ball+Bug+Nichols",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/861677",
   "youtube": "",
   "year": null
  },
@@ -12765,7 +13295,7 @@
   "country": "USA",
   "title": "Pasha's Passion",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Pasha%27s+Passion+Nichols",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/866707",
   "youtube": "",
   "year": null
  },
@@ -12775,7 +13305,7 @@
   "country": "USA",
   "title": "Hoosier Rag",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Hoosier+Rag+Niebergall",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/676982",
   "youtube": "",
   "year": null
  },
@@ -12785,7 +13315,7 @@
   "country": "USA",
   "title": "Horseshoe Rag",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Horseshoe+Rag+Niebergall",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/676987",
   "youtube": "",
   "year": null
  },
@@ -12795,7 +13325,7 @@
   "country": "USA",
   "title": "Red Rambler Rag",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Red+Rambler+Rag+Niebergall",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/711534",
   "youtube": "",
   "year": null
  },
@@ -12815,7 +13345,7 @@
   "country": "USA",
   "title": "3 Little Piano Pieces, Op. 8 (#2 only \"Bouquet Waltz\")",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=3+Little+Piano+Pieces%2C+Op.+8+%28%232+only+Orth",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/417685",
   "youtube": "https://youtu.be/dZj2Xy42q8E",
   "year": null
  },
@@ -12835,7 +13365,7 @@
   "country": "USA",
   "title": "The Man of Destiny March",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Man+of+Destiny+March+Owen",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/865037",
   "youtube": "",
   "year": null
  },
@@ -12875,7 +13405,7 @@
   "country": "USA",
   "title": "A Morning Sunbeam",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=A+Morning+Sunbeam+Price",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/652041",
   "youtube": "https://www.youtube.com/watch?v=j_ZEbxDbHW0",
   "year": null
  },
@@ -12945,7 +13475,7 @@
   "country": "USA",
   "title": "Three Little Negro Dances (Hoe Cake; Rabbit Foot; Ticklin' Toes)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Three+Little+Negro+Dances+%28Hoe+Cake%3B+Rabbit+Foot%3B+Price",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/650485",
   "youtube": "",
   "year": null
  },
@@ -12955,9 +13485,19 @@
   "country": "USA",
   "title": "Thumbnail Sketches of a Day in the Life of a Washerwoman (Morning; Spinning Dreams at the Washtub; A Gay Moment; Evening Shadows)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Thumbnail+Sketches+of+a+Day+in+the+Life+Price",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/677694",
   "youtube": "https://youtu.be/LScI06VqNAg",
   "year": null
+ },
+ {
+  "composer": "Ricketts, Estelle D.",
+  "dates": "c. 1871-after 1940",
+  "country": "USA",
+  "title": "Rippling Spring Waltz (1893) — earliest known published piano solo by a Black woman; Library of Congress; repr. in Walker-Hill, Black Women Composers: A Century of Piano Music",
+  "key": "D major",
+  "url": "",
+  "youtube": "",
+  "year": 1893
  },
  {
   "composer": "Rivé-King, Julie",
@@ -12975,7 +13515,7 @@
   "country": "USA",
   "title": "Concert Sonate after Domenico Scarlatti",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Concert+Sonate+after+Domenico+Scarlatti+Riv%C3%A9-King",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/734657",
   "youtube": "",
   "year": null
  },
@@ -13085,7 +13625,7 @@
   "country": "USA",
   "title": "The North Star - Reverie",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+North+Star+-+Reverie+Roberts",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/726179",
   "youtube": "",
   "year": null
  },
@@ -13095,7 +13635,7 @@
   "country": "USA",
   "title": "Lemons and Limes (a sour rag)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Lemons+and+Limes+%28a+sour+rag%29+Salisbury",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/864843",
   "youtube": "",
   "year": null
  },
@@ -13105,13 +13645,13 @@
   "country": "USA",
   "title": "Arcadia Waltz",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Arcadia+Waltz+Sanders",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/657362",
   "youtube": "",
   "year": null
  },
  {
   "composer": "Sanders, Alma M.",
-  "dates": "1882-1956",
+  "dates": "1882-1957",
   "country": "USA",
   "title": "Falling Rose Leaves",
   "key": "",
@@ -13121,7 +13661,7 @@
  },
  {
   "composer": "Sanders, Alma M.",
-  "dates": "1882-1956",
+  "dates": "1882-1957",
   "country": "USA",
   "title": "Fragrance of Spring",
   "key": "",
@@ -13155,7 +13695,7 @@
   "country": "USA",
   "title": "Persian Garden Tango",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Persian+Garden+Tango+Sawyer",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/866920",
   "youtube": "",
   "year": null
  },
@@ -13165,7 +13705,7 @@
   "country": "USA",
   "title": "Song of the Mountain Brook",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Song+of+the+Mountain+Brook+Sayles",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/761880",
   "youtube": "",
   "year": null
  },
@@ -13175,7 +13715,7 @@
   "country": "USA",
   "title": "March of the Scouts",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=March+of+the+Scouts+Sharpe",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/865031",
   "youtube": "",
   "year": null
  },
@@ -13205,7 +13745,7 @@
   "country": "USA",
   "title": "Wireless Rag",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Wireless+Rag+Shepherd",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/738694",
   "youtube": "",
   "year": null
  },
@@ -13245,7 +13785,7 @@
   "country": "USA",
   "title": "Smash Up Rag",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Smash+Up+Rag+Stevenson",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/714286",
   "youtube": "https://youtu.be/DdymEX4s9wg",
   "year": null
  },
@@ -13255,7 +13795,7 @@
   "country": "USA",
   "title": "Breath of the Rose Waltz",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Breath+of+the+Rose+Waltz+Stokes",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/661415",
   "youtube": "",
   "year": null
  },
@@ -13265,7 +13805,7 @@
   "country": "USA",
   "title": "Razzle Dazzle Rag Two-step",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Razzle+Dazzle+Rag+Two-step+Stokes",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/867264",
   "youtube": "",
   "year": null
  },
@@ -13275,7 +13815,7 @@
   "country": "USA",
   "title": "The Gypsies Carnival",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Gypsies+Carnival+Story",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/863999",
   "youtube": "",
   "year": null
  },
@@ -13285,7 +13825,7 @@
   "country": "USA",
   "title": "Majesté - Schottisch",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Majest%C3%A9+-+Schottisch+Story",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/865025",
   "youtube": "",
   "year": null
  },
@@ -13315,7 +13855,7 @@
   "country": "USA",
   "title": "An Old Garden - Tone Poem",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=An+Old+Garden+-+Tone+Poem+Terhune",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/866592",
   "youtube": "",
   "year": null
  },
@@ -13335,7 +13875,7 @@
   "country": "USA",
   "title": "Kalmia Galop",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Kalmia+Galop+Van+Bokerck",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/706087",
   "youtube": "",
   "year": null
  },
@@ -13345,7 +13885,7 @@
   "country": "USA",
   "title": "Rococo Galop",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Rococo+Galop+Van+Bokerck",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/706089",
   "youtube": "",
   "year": null
  },
@@ -13355,7 +13895,7 @@
   "country": "USA",
   "title": "Tile Club Galop",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Tile+Club+Galop+Van+Bokerck",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/706090",
   "youtube": "",
   "year": null
  },
@@ -13365,7 +13905,7 @@
   "country": "USA",
   "title": "Sunbeam Polka",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Sunbeam+Polka+Vannah",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/192366",
   "youtube": "",
   "year": null
  },
@@ -13445,7 +13985,7 @@
   "country": "USA",
   "title": "The Banjo, Op. 74, no. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Banjo%2C+Op.+74%2C+no.+4+Wright",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/237900",
   "youtube": "https://www.youtube.com/watch?v=q1DUFmuhAn4",
   "year": null
  },
@@ -13455,7 +13995,7 @@
   "country": "USA",
   "title": "Waltz in B flat major",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Waltz+in+B+flat+major+Wright",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/403590",
   "youtube": "https://www.youtube.com/watch?v=q1DUFmuhAn4",
   "year": null
  },
@@ -13475,7 +14015,7 @@
   "country": "USA",
   "title": "At Evening, Op. 38",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=At+Evening%2C+Op.+38+Wright",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/319141",
   "youtube": "",
   "year": null
  },
@@ -13495,7 +14035,7 @@
   "country": "USA",
   "title": "Scarf Dance",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Scarf+Dance+Wright",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/260264",
   "youtube": "",
   "year": null
  },
@@ -13505,7 +14045,7 @@
   "country": "USA",
   "title": "The Butterfly, Op. 36, no. 4",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=The+Butterfly%2C+Op.+36%2C+no.+4+Wright",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/414168",
   "youtube": "https://www.youtube.com/watch?v=q1DUFmuhAn4",
   "year": null
  },
@@ -13515,7 +14055,7 @@
   "country": "USA",
   "title": "Twelve Preludes, Op. 25",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Twelve+Preludes%2C+Op.+25+Wright",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/319539 and https://imslp.org/wiki/Special:ImagefromIndex/374726",
   "youtube": "https://youtu.be/rJrNrOeCaBk",
   "year": null
  },
@@ -13545,7 +14085,7 @@
   "country": "USA",
   "title": "Piffle Rag",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Piffle+Rag+Yelvington",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708273",
   "youtube": "",
   "year": null
  },
@@ -13555,7 +14095,17 @@
   "country": "Ukraine",
   "title": "From the World of Animals, Op. 10 (The Kitten, Cows (Pastorale), In the Chicken Coop, Snake, Monkey, Elephant Dance)",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=From+the+World+of+Animals%2C+Op.+10+%28The+Ramm",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/903666",
+  "youtube": "",
+  "year": null
+ },
+ {
+  "composer": "Turkevych, Stefania",
+  "dates": "1898-1977",
+  "country": "Ukraine",
+  "title": "Piano cycles and miniatures (banned in the USSR; published posthumously, incl. Ukrainian Live Classic editions)",
+  "key": "",
+  "url": "https://ukrainianlive.org/turkevych-stephania",
   "youtube": "",
   "year": null
  },
@@ -13565,7 +14115,7 @@
   "country": "Uruguay",
   "title": "Alegría de Vacaciones",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Alegr%C3%ADa+de+Vacaciones+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708303",
   "youtube": "",
   "year": null
  },
@@ -13585,7 +14135,7 @@
   "country": "Uruguay",
   "title": "Árbol de navidad",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=%C3%81rbol+de+navidad+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708334",
   "youtube": "",
   "year": null
  },
@@ -13605,7 +14155,7 @@
   "country": "Uruguay",
   "title": "Balanza",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Balanza+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708305",
   "youtube": "",
   "year": null
  },
@@ -13615,7 +14165,7 @@
   "country": "Uruguay",
   "title": "Canto de Sirenas",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Canto+de+Sirenas+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708313",
   "youtube": "",
   "year": null
  },
@@ -13625,7 +14175,7 @@
   "country": "Uruguay",
   "title": "Cantos Infantiles y Columpios",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Cantos+Infantiles+y+Columpios+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708319",
   "youtube": "",
   "year": null
  },
@@ -13635,7 +14185,7 @@
   "country": "Uruguay",
   "title": "Caperucita perdida en el bosque",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Caperucita+perdida+en+el+bosque+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708322",
   "youtube": "",
   "year": null
  },
@@ -13645,7 +14195,7 @@
   "country": "Uruguay",
   "title": "Circo ecuestre",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Circo+ecuestre+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707786",
   "youtube": "",
   "year": null
  },
@@ -13655,7 +14205,7 @@
   "country": "Uruguay",
   "title": "Coqueteo de Arboles",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Coqueteo+de+Arboles+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707789",
   "youtube": "",
   "year": null
  },
@@ -13685,7 +14235,7 @@
   "country": "Uruguay",
   "title": "El entierro del Jilguero",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=El+entierro+del+Jilguero+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708326",
   "youtube": "",
   "year": null
  },
@@ -13695,7 +14245,7 @@
   "country": "Uruguay",
   "title": "El sueño de Criki-Criki",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=El+sue%C3%B1o+de+Criki-Criki+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708302",
   "youtube": "",
   "year": null
  },
@@ -13705,7 +14255,7 @@
   "country": "Uruguay",
   "title": "Espera el Coche",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Espera+el+Coche+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708331",
   "youtube": "",
   "year": null
  },
@@ -13715,7 +14265,7 @@
   "country": "Uruguay",
   "title": "Estilo Criollo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estilo+Criollo+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708380",
   "youtube": "",
   "year": null
  },
@@ -13725,7 +14275,7 @@
   "country": "Uruguay",
   "title": "Estudio en Do sostenido menor",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+en+Do+sostenido+menor+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708076",
   "youtube": "",
   "year": null
  },
@@ -13735,7 +14285,7 @@
   "country": "Uruguay",
   "title": "Estudio en Sol sostenido menor antiguo",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+en+Sol+sostenido+menor+antiguo+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708020",
   "youtube": "",
   "year": null
  },
@@ -13745,7 +14295,7 @@
   "country": "Uruguay",
   "title": "Estudio in B major",
   "key": "B major",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+in+B+major+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708013",
   "youtube": "",
   "year": null
  },
@@ -13755,7 +14305,7 @@
   "country": "Uruguay",
   "title": "Estudio N.1 en Sol sostenido menor",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+N.1+en+Sol+sostenido+menor+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708064",
   "youtube": "",
   "year": null
  },
@@ -13765,7 +14315,7 @@
   "country": "Uruguay",
   "title": "Estudio No.2 en La bemol mayor",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+No.2+en+La+bemol+mayor+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708066",
   "youtube": "",
   "year": null
  },
@@ -13775,7 +14325,7 @@
   "country": "Uruguay",
   "title": "Estudio No.3 en Do sostenido menor",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+No.3+en+Do+sostenido+menor+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708069",
   "youtube": "",
   "year": null
  },
@@ -13785,7 +14335,7 @@
   "country": "Uruguay",
   "title": "Estudio No.4 Rítmico en Re bemol y Sol bemol mayor",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+No.4+R%C3%ADtmico+en+Re+bemol+y+Sol+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708074",
   "youtube": "",
   "year": null
  },
@@ -13805,7 +14355,7 @@
   "country": "Uruguay",
   "title": "Estudio Rítmico in D flat major",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+R%C3%ADtmico+in+D+flat+major+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708012",
   "youtube": "",
   "year": null
  },
@@ -13835,7 +14385,7 @@
   "country": "Uruguay",
   "title": "Estudio Romántico No.2",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Estudio+Rom%C3%A1ntico+No.2+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708127",
   "youtube": "",
   "year": null
  },
@@ -13845,7 +14395,7 @@
   "country": "Uruguay",
   "title": "Evocación de Fiesta",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Evocaci%C3%B3n+de+Fiesta+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707787",
   "youtube": "",
   "year": null
  },
@@ -13855,7 +14405,7 @@
   "country": "Uruguay",
   "title": "Fiesta de Pastores",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Fiesta+de+Pastores+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707784",
   "youtube": "",
   "year": null
  },
@@ -13865,7 +14415,7 @@
   "country": "Uruguay",
   "title": "Gaucho Solitario",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Gaucho+Solitario+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708335",
   "youtube": "",
   "year": null
  },
@@ -13875,7 +14425,7 @@
   "country": "Uruguay",
   "title": "Himnos y Banderas",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Himnos+y+Banderas+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707785",
   "youtube": "",
   "year": null
  },
@@ -13885,7 +14435,7 @@
   "country": "Uruguay",
   "title": "La Artillería Pasa",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+Artiller%C3%ADa+Pasa+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708309",
   "youtube": "",
   "year": null
  },
@@ -13895,7 +14445,7 @@
   "country": "Uruguay",
   "title": "La salida de la escuela",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=La+salida+de+la+escuela+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708325",
   "youtube": "",
   "year": null
  },
@@ -13905,7 +14455,7 @@
   "country": "Uruguay",
   "title": "Lavandera",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Lavandera+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708320",
   "youtube": "",
   "year": null
  },
@@ -13915,7 +14465,7 @@
   "country": "Uruguay",
   "title": "Malabaristas Japoneses",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Malabaristas+Japoneses+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707747",
   "youtube": "",
   "year": null
  },
@@ -13925,7 +14475,7 @@
   "country": "Uruguay",
   "title": "Marcha Militar 'Batallón Que Pasa'",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Marcha+Militar+%27Batall%C3%B3n+Que+Pasa%27+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708297",
   "youtube": "",
   "year": null
  },
@@ -13945,7 +14495,7 @@
   "country": "Uruguay",
   "title": "Música escénica 'Las manzanas del niño Jesús'",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=M%C3%BAsica+esc%C3%A9nica+%27Las+manzanas+del+ni%C3%B1o+Jes%C3%BAs%27+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708323",
   "youtube": "",
   "year": null
  },
@@ -13955,7 +14505,7 @@
   "country": "Uruguay",
   "title": "Oración \"Santos Vega\"",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Oraci%C3%B3n+%22Santos+Vega%22+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708003",
   "youtube": "",
   "year": null
  },
@@ -13965,7 +14515,7 @@
   "country": "Uruguay",
   "title": "Palacio Encantado",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Palacio+Encantado+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707788",
   "youtube": "",
   "year": null
  },
@@ -13975,7 +14525,7 @@
   "country": "Uruguay",
   "title": "Poema del Reloj",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Poema+del+Reloj+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708312",
   "youtube": "",
   "year": null
  },
@@ -13985,7 +14535,7 @@
   "country": "Uruguay",
   "title": "Poema Musical 'Meditación'",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Poema+Musical+%27Meditaci%C3%B3n%27+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708298",
   "youtube": "",
   "year": null
  },
@@ -13995,7 +14545,7 @@
   "country": "Uruguay",
   "title": "Procesión de Semana Santa en Hospitalet del Llobregat",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Procesi%C3%B3n+de+Semana+Santa+en+Hospitalet+del+Llobregat+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708294",
   "youtube": "",
   "year": null
  },
@@ -14005,7 +14555,7 @@
   "country": "Uruguay",
   "title": "Saltando la comba",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Saltando+la+comba+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/708337",
   "youtube": "",
   "year": null
  },
@@ -14015,7 +14565,7 @@
   "country": "Uruguay",
   "title": "Zingaros",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Zingaros+Barradas",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/707748",
   "youtube": "",
   "year": null
  },
@@ -14075,7 +14625,7 @@
   "country": "Venezuela",
   "title": "Kleiner Walzer",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Kleiner+Walzer+Carre%C3%B1o",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/684568",
   "youtube": "",
   "year": null
  },
@@ -14135,7 +14685,7 @@
   "country": "Venezuela",
   "title": "Plainte!, Op. 17",
   "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Plainte%21%2C+Op.+17+Carre%C3%B1o",
+  "url": "https://imslp.org/wiki/Special:ImagefromIndex/255654",
   "youtube": "https://youtu.be/yIpoMonAl40",
   "year": null
  },
@@ -14177,173 +14727,6 @@
   "key": "",
   "url": "https://imslp.org/wiki/Une_revue_à_Prague%2C_Op.27_(Carreño%2C_Teresa)",
   "youtube": "",
-  "year": null
- },
- {
-  "composer": "Cowdin, Virginia Georgia",
-  "dates": "1818-1882",
-  "country": "?",
-  "title": "Gen. Beauregard's Grand March",
-  "key": "",
-  "url": "https://imslp.org/wiki/Gen._Beauregard's_Grand_March_(Cowdin%2C_Virginia_Georgia)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Markoff, Alexandra de",
-  "dates": "1879-1959",
-  "country": "?",
-  "title": "Valse des Feuilles",
-  "key": "",
-  "url": "https://imslp.org/index.php?title=Special%3ASearch&search=Valse+des+Feuilles+Markoff",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Momy, Valérie",
-  "dates": "1808-1889",
-  "country": "?",
-  "title": "Rondeau avec Introduction sur un air favori de \"Fiorella,\" Op. 4",
-  "key": "",
-  "url": "https://imslp.org/wiki/Rondeau_avec_Introduction_sur_un_air_favori_de_'Fiorella'%2C_Op.4_(Momy%2C_Val%C3%A9rie)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Pferdmenges, Maria",
-  "dates": "1872-1939",
-  "country": "?",
-  "title": "Intermezzo, Op. 19 (Perpetuum Mobile)",
-  "key": "",
-  "url": "https://imslp.org/wiki/Intermezzo%2C_Op.19_(Pferdmenges%2C_Maria)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Sari, Laeticia",
-  "dates": "1822-1893",
-  "country": "?",
-  "title": "Ronde des elfes",
-  "key": "",
-  "url": "https://imslp.org/wiki/Ronde_des_elfes_(Sari%2C_L%C3%A6titia)",
-  "youtube": "",
-  "year": null
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Gavotte impériale (London, 1890) — played for Queen Victoria; recorded by the composer in 1904",
-  "key": "",
-  "url": "",
-  "year": 1890
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Court Gavotte (London, 1890)",
-  "key": "",
-  "url": "",
-  "year": 1890
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Mazurka, Op. 6 (1900)",
-  "key": "E minor",
-  "url": "",
-  "year": 1900
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Mazourka, Op. 14 (London, 1902)",
-  "key": "A major",
-  "url": "",
-  "year": 1902
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Morceau gracieux (London, 1897)",
-  "key": "",
-  "url": "",
-  "year": 1897
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Mountain Scenes (dedicated to Clara Schumann)",
-  "key": "",
-  "url": "",
-  "year": null
- },
- {
-  "composer": "Janotha, Natalia",
-  "dates": "1856-1932",
-  "country": "Poland",
-  "title": "Polonaise funèbre, Op. 100 (Amsterdam, c. 1926)",
-  "key": "",
-  "url": "",
-  "year": 1926
- },
- {
-  "composer": "Turkevych, Stefania",
-  "dates": "1898-1977",
-  "country": "Ukraine",
-  "title": "Piano cycles and miniatures (banned in the USSR; published posthumously, incl. Ukrainian Live Classic editions)",
-  "key": "",
-  "url": "https://ukrainianlive.org/turkevych-stephania",
-  "year": null
- },
- {
-  "composer": "Mackenna, Carmela",
-  "dates": "1879-1962",
-  "country": "Chile",
-  "title": "Six Preludes (Berlin, 1931) — scores held at the Biblioteca Nacional de Chile",
-  "key": "",
-  "url": "https://www.chilenasalpiano.cl/compositoras-y-obras/siglo-xx/carmela-mackenna",
-  "year": 1931
- },
- {
-  "composer": "Sepúlveda, María Luisa",
-  "dates": "1883-1958",
-  "country": "Chile",
-  "title": "El amigo del niño (pedagogical pieces for beginning pianists)",
-  "key": "",
-  "url": "",
-  "year": null
- },
- {
-  "composer": "Ricketts, Estelle D.",
-  "dates": "c. 1871-after 1940",
-  "country": "USA",
-  "title": "Rippling Spring Waltz (1893) — earliest known published piano solo by a Black woman; Library of Congress; repr. in Walker-Hill, Black Women Composers: A Century of Piano Music",
-  "key": "D major",
-  "url": "",
-  "year": 1893
- },
- {
-  "composer": "Holt, Nora Douglas",
-  "dates": "1885-1974",
-  "country": "USA",
-  "title": "Negro Dance, Op. 25 No. 1 (publ. Music and Poetry, 1921) — sole survivor of ~200 works stolen in 1926",
-  "key": "",
-  "url": "",
-  "year": 1921
- },
- {
-  "composer": "Mana-Zucca (Augusta Zuckermann)",
-  "dates": "1885-1981",
-  "country": "USA",
-  "title": "Zouaves' Drill, Op. 68 — virtuoso concert piece",
-  "key": "",
-  "url": "",
   "year": null
  }
 ]
